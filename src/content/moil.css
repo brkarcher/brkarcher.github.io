@@ -1,0 +1,43 @@
+body
+{
+	margin:40px auto;
+	max-width: 650px;
+	line-height: 1.6;
+	font-size: 18px;
+	color:#a0aa00; 
+	padding:0 10px;
+	background-color: #111111;
+}
+
+h1,h2,h3
+{
+	color: #cacc00;
+	line-height: 1.2
+}
+
+a
+{
+	color: #777777;
+}
+
+small
+{
+	color: #a0aa00;
+}
+
+hr
+{
+	background-color: #a0aa00;
+	border: 0px;
+	height: 1px;
+}
+
+blockquote
+{
+    background-color: #242424;
+    margin: 0;
+    padding: 1em;
+    font-style: italic;
+}
+
+/* background-darker: #111111, background: #191919, background-lighter: #242424, accent text: #cacc00, text: #a0aa00 or #737800, greytext: #777777 */
