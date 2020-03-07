@@ -1,28 +1,28 @@
 #/bin/bash
 
-# run me from the root folder; I expect to work in a "source" folder and export to the current folder
+# run me from the root folder; I expect to work in a "src" folder and export to the current folder
 
-for filename in source/*.md; do
-	./process "$filename"
+for filename in src/*.md; do
+	./src/build/process "$filename"
 done
 
-cp -r source/content/* ./
+cp -r src/content/* ./
 
-for filename in source/empire/*.md; do
-	./process "$filename" empire
+for filename in src/empire/*.md; do
+	./src/build/process "$filename" empire
 done
 
-cp -r source/empire/content/* ./empire/
+cp -r src/empire/content/* ./empire/
 
-for filename in source/troubles/*.md; do
-	./process "$filename" troubles
+for filename in src/troubles/*.md; do
+	./src/build/process "$filename" troubles
 done
 
-cp -r source/troubles/content/* ./troubles/
+cp -r src/troubles/content/* ./troubles/
 
-# for dirname in source/*/; do
+# for dirname in src/*/; do
 # 	for filename in $dirname/*.md; do
 # 		file_without_path="${filename##*/}"
-# 		cat "$dirname/template_begin.html" <(perl Markdown.pl "$filename") "$dirname/template_end.html" > "./${dirname#source}/${file_without_path%.md}.html"
+# 		cat "$dirname/template_begin.html" <(perl ./src/build/Markdown.pl "$filename") "$dirname/template_end.html" > "./${dirname#source}/${file_without_path%.md}.html"
 # 	done
 # done

@@ -6,9 +6,9 @@ if [ $# -eq 2 ]
 then
 	file_without_path=${1##*/}
 	subfolder=$2
-	cat source/$2/template_begin.html <(perl Markdown.pl "$1") source/$2/template_end.html > "./$2/${file_without_path%.md}.html"
+	cat src/$2/template_begin.html <(perl src/build/Markdown.pl "$1") src/$2/template_end.html > "./$2/${file_without_path%.md}.html"
 else
 	file_without_path=${1##*/}
-	cat source/template_begin.html <(perl Markdown.pl "$1") source/template_end.html > "./${file_without_path%.md}.html"
+	cat src/template_begin.html <(perl src/build/Markdown.pl "$1") src/template_end.html > "./${file_without_path%.md}.html"
 fi
 
