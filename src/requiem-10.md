@@ -117,7 +117,7 @@ I began the compulsive beard-scratching of my station. "True."
 
 "Exactly. I don't have friends I trust as much as Sandron there. It would simply be easier for Naht to be... unseen."
 
-I mulled it over. Spells that render oneself or another invisible are old, but they are complicated. The ideal invisibility spell works by allowing light to pass through an arbitrary collection of moving surfaces and textures (like, say, a person's flesh, bone, organs, hair, eyes, and clothes) and are extremely complicated, requiring an advanced vocabulary of ideas and putting a heavy burden on one's mind to keep ready. Lesser spells exist, such as ones that affect fewer things (say, only living matter, not clothes), or ones that only affect slow-moving things. Several of these were difficult, but within my reach. The difficulty would be explaining to Naht the strange and unintuitive ways in which he would have to behave to avoid being partially seen.
+I mulled it over. Spells that render oneself or another invisible are old, but they are complicated. The ideal invisibility spell works by allowing light to pass through an arbitrary collection of moving surfaces and textures (like, say, a person's flesh, bone, organs, hair, eyes, and clothes) and are extremely complicated, requiring an advanced vocabulary of ideas and putting a heavy burden on one's mind to keep ready. Lesser spells exist, such as ones that affect fewer things (say, only living matter, not clothes), or ones that only affect slow-moving things. Several of these were within my reach. The real difficulty would be explaining to Naht the strange and unintuitive ways in which he would have to behave to avoid being partially seen.
 
 "Well. I do have ways of doing that. But they're fraught and take quite a bit of practice on the part of the subject, or else..."
 
@@ -159,7 +159,7 @@ I crossed my arms, hurt.
 
 She folded her hands in her lap, forcing herself not to gesticulate so excitedly with them with Naht sleeping so close as she continued.
 
-"There just aren't that many people who _that_ good at ink-magic. You can count them on two hands. The point being... someone had to teach her, right? Or did she teach someone? What does she do with those talents? You don't become a powerful wizard just to _not_ have an affect on the world. Surely someone you know knows."
+"There just aren't that many people who are _that_ good at ink-magic. You can count them on two hands. The point being... someone had to teach her, right? Or did she teach someone? What does she do with those talents? You don't become a powerful wizard just to _not_ have an affect on the world. Surely someone you know knows."
 
 She was, once more, painfully right. Painful, because this woman _was_ a member of the elite I belonged to, that I was so proud to belong to. She was one of _us_, and she was up to something wicked.
 
