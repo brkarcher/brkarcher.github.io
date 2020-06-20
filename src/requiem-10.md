@@ -97,7 +97,7 @@ There was silence as we looked across to the great, snow-peaked Rim, out over th
 
 ---
 
-The next evening brought with it the return of Spook, who nearly startled me to death. I had been reading the _Astronomy of the North_ by candlelight (the most immediately useful of the disciplines in our case, particularly as related to navigation) when I looked up and saw two eyes glinting in the darkness. Only after nearly leaping out of my travel robe, and straining my eyes to see better, did I realize that it was the pale little owl who had delivered my letter of resignation, watching me from his customary perch on Malisa's shoulder.
+That evening brought with it the return of Spook, who nearly startled me to death. I had been reading the _Astronomy of the North_ by candlelight (the most immediately useful of the disciplines in our case, particularly as related to navigation) when I looked up and saw two eyes glinting in the darkness. Only after nearly leaping out of my travel robe, and straining my eyes to see better, did I realize that it was the pale little owl who had delivered my letter of resignation, watching me from his customary perch on Malisa's shoulder.
 
 It was easy to forget, sometimes, that Mal's cheery little companion was a nocturnal predator by nature. Or perhaps I should say "in form." He was, as they say, Mal's _familiar spirit_, and it seems almost demeaning to such spirits to say that they are anything "by nature." To say nothing of the Dreamers they are bound to.
 
