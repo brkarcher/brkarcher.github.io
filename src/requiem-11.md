@@ -79,7 +79,7 @@ And all the more formidable was her ability to do it without tools: no book, no 
 
 Such is the power of a Dreamer.
 
-"Ah," I replied, cheerfully. "Magical reagents and other such things. A short stop and a light burden. A few words exchanged with Monsieur Valthan."
+"Ah," I replied, cheerfully. "Magical reagents and other such things. A short stop and a light burden. A few words exchanged with my esteemed peer Valthan."
 
 "I hope the stop is a pleasant one. Is there anything I can provide?"
 
