@@ -5,9 +5,9 @@ It was the very next day that we encountered our first fellow traveler on the ro
 
 My initial reaction was that of relief and anticipation. News is always welcome on the road. But then, as is its habit, my mind caught up to me and began to give me worry. The silhouette was lone, accompanied by no cart nor beast of burden, but carrying on his body no small amount of baggage. From this distance it was hard to make out what. This disfavored some possibilities—not likely to be a farmer returning from market, nor a merchant ferrying goods—and favored others—student of the College, a traveling courtier such as myself, and so on.
 
-What if the man was armed?
+What if the traveler was armed?
 
-Was he a danger to Naht?
+Were they a danger to Naht?
 
 Our passage on the road was, fortunately, uneventful in the extreme. He gave the appearance of a hunter, perhaps sallying forth from one of the farming hamlets nearby in search of upland game (some skilled hunters seek out the unique feline and leporine species in this region). Which means he was armed. His eyes lurked suspiciously beneath his bangs in a way that made me tense, but then they flicked amiably over me and then over Mal and then out over the road. He huffed with effort as he climbed up the uneven road, but he gave a polite nod of the head as he passed, and we passed, and the sounds of his laborious climb faded behind us until it was subsumed by the plod and crunch of our own descent.
 
@@ -43,7 +43,7 @@ I paused for a moment, then nodded.
 
 As we neared the ranger I waved awkwardly and (what I hoped would be) amiably.
 
-"Hail, traveler," came her reply. "How fare you? News from the north?"
+"Hail, traveler," came her reply. "How fare you? News from the south?"
 
 "Mm, well, thank you. The weather and roads are good. Peraise is lovely in the summer heat."
 
