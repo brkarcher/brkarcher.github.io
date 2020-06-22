@@ -1,11 +1,11 @@
 Chapter XII: Duties
 -------------------
 
-Épineuil was one of the jewels in the crown of Orland. It was not the foremost of the kingdom's centers of commerce and culture: that would be Rellenreaux, the glimmering ruby set in the fore-ridge of that crown. Épineuil was contented to be a humbler but no less beautiful sapphire. It connected the southern midlands to the northern lowlands, the kingdom's two breadbaskets and two distinct cultural regions.
+Épineuil was one of the jewels in the crown of Orland. It was not the foremost of the kingdom's centers of commerce and culture: that would be Rellenreaux, the glimmering ruby set in the fore-ridge of that crown. Épineuil was contented to be a humbler but no less beautiful sapphire. It connected the southern midlands to the northern lowlands, the kingdom's two breadbaskets and two distinct cultural regions, and the town itself enjoyed all of the bountiful rewards of that exchange.
 
 The town itself was a riot of color, the pigments and paints from every corner of the seven kingdoms adorning every free square inch of plaster and every yard of cloth. The two distinct Orlan accents could be heard issuing from every stall, every window, and every alley (mine would mark me obviously for a southerner). I even caught the distinct turn of the Veldic language being used to facilitate a conversation with some other traveler from a far-flung place.
 
-My travel robe and Mal's black gown wouldn't be terribly far out of place here, besides being somewhat sombre and out of fashion. It would make it somewhat obvious that I was a courtier, and one look at my beard would fairly well give away which kind of courtier I was. Which, I suppose, was the point. It would serve me well enough here, I thought.
+My travel robe and Mal's black gown wouldn't be terribly far out of place here, besides being somewhat somber and out of fashion. It would make it somewhat obvious that I was a courtier, and one look at my beard would fairly well give away which kind of courtier I was. Which, I suppose, was the point. It would serve me well enough here, I thought.
 
 So we stood in the center of the gate square, essentially a street so broad that it had earned the designation of a square, while the sun made its final retreat beneath the city walls and the last of the citizens and visitors to the city, soaked in shadows, concluded their days.
 
@@ -29,7 +29,7 @@ My feelings of contentment had not abated, and, indeed, swelled with each passin
 
 And it wasn't for nothing that Épineuil was a beautiful town, and I had a moment to myself to simply enjoy it.
 
-The Academy was perched on the corner of the main market square, now empty but for a mailled night sentry leaning against a wall, his lantern glowing placidly by his feet.
+The Academy was perched on the corner of the main market square, now empty but for an armored night sentry leaning against a wall, his lantern glowing placidly by his feet.
 
 I shuffled off my pack and took a seat on the edge of a planter before the Academy. I made some minimal effort to look non-suspicious within the sentry's view, but I supposed my beard and robe would, again, do most of the work for me.
 
@@ -39,29 +39,33 @@ Hmm. The _seeming_. The farmer's cart. Naht had wanted to complain that what the
 
 ... What _was_ the curse, anyway?
 
-Unusual skin tones. Bony prominences on the face and sometimes upper arms and back. Horns, like a ram's or a dragon's. Eyes with homochromatic pupils, irises, and sclera. Unseemly at worst, but harmless.
+Unusual skin tones. Bony prominences on the face and sometimes upper arms and back. Horns, like a ram's or a dragon's. Eyes with homochromatic pupils, irises, and sclera. A tail. Unseemly at worst, difficult to tailor for, but harmless.
 
 As some scholars would have it: soullessness, perhaps. An irresistible bent for evil, for destruction. As legends would have it: the ability to shapeshift, to steal bodies or even souls _from_ bodies.
 
-I felt myself getting angry. What rubbish. For legends to run wild was one thing. But for scholars and courtiers like myself, whose very duty it is to understand reality to its fullest... these scholars could not have possibly encountered these ideas in reality. Certainly not the reality I had been living in. It was not reality. It was reckless speculation. An absolute betrayal of their life's work. Of _my_ life's work.
+I felt myself getting angry. What rubbish. For legends to run wild was one thing. But for scholars and courtiers like myself, whose very duty it is to understand reality to its fullest... these scholars could not have possibly encountered these ideas in reality. Certainly not the reality I had been living in with Naht. It was not reality. It was reckless speculation. An absolute betrayal of their life's work. Of _my_ life's work.
 
 My eyes, hard under a furrowed brow, drifted back to my pack. _The Transmutation of Souls: A Compilation of Attestations_. An Ivian Leauge era work by Rector Ystile, whose status within the League-era College hierarchy afforded the book just enough prestige to allow it to remain in the College collections. Most other similar works had been burned. Even this one was guarded carefully, lest the wicked be given the chance to recreate the malign magics that ancient warlocks used to touch and exploit the soul.
 
-And what is a curse if it does not go to one's soul? Nothing. I needed to know. I would need the warlocks' secrets.
+I needed to know more about Naht's curse. Was lifting it with powerful transmutation magic within the Emperor's reach, as Mal figured? Or was there another way? What did the curse do, beyond the superficial? Was there truly demonic influence to fear?
+
+And how better to understand a curse than to understand the soul the bears it?
+
+I would need the warlocks' secrets.
 
 ---
 
 The same ranger we met on the road, her chaps and tunic still slightly dusty from a hard day's work, showed me into Valthan's office, gave a polite bow, and closed the door behind her.
 
-Valthan's office was sparser than mine. It was, too, dominated by a heavy wooden desk expertly crafted to maximize both storage space and aesthetic pleasure. But less tools and knick-knacks cluttered its surface, and for that matter, the wood-paneled walls were considerably more bare. I surmised it to be some combination of his personal organizing preferences and his short years in service to the Baron, such that he simply had less time to experience the natural accrual of tools that plagues wizards' careers like a fungus.
+Valthan's office was sparser than mine. It was, like mine, dominated by a heavy wooden desk expertly crafted to maximize both storage space and aesthetic pleasure. But fewer tools and knick-knacks cluttered its surface, and for that matter, the wood-paneled walls were considerably more bare. I surmised it to be some combination of his personal organizing preferences and his short years in service to the Baron, such that he simply had less time to experience the natural accrual of tools that plagues wizards' careers like a fungus.
 
-Valthan himself was a thin man, with a protruding chin, an immaculate moustache, and hungry eyes. The robe helped to fill out his wiry frame and give him the personal presence befitting a wizard.
+Valthan himself was a thin man with a protruding chin, an immaculate moustache, and hungry eyes. The robe helped to fill out his wiry frame and give him the personal presence befitting a wizard.
 
 In case you hadn't noticed, I am quite fond of our wizard robes.
 
 "To what do I owe the pleasure, my friend?" Valthan asked. There was an odd note in his voice.
 
-"To myself, of course," I chuckled. "I was passing through and it seemed only polite. I read your essay on the creative properties of fire; I've been trying to write a letter on how the southern fire-star Gamede might be able to link those ideas—very well articulated, I should say, fine work—to... well, something, surely. You can see why the letter is yet unfinished."
+"To myself, of course," I chuckled. "I was passing through and it seemed only right. I read your essay on the creative properties of fire; I've been trying to write a letter on how the southern fire-star Gamede might be able to link those ideas—very well articulated, I should say, fine work—to... well, something, surely. You can see why the letter is yet unfinished."
 
 "I thank you. It was a small thing, I think. We all know how fire can be used to create, but the aetheric processes underlying it are... ah, never mind. You did read it, after all. I trust you have found the town pleasing?"
 
@@ -81,11 +85,11 @@ He shook his head, wearing an exquisitely pained expression. Potentially a faked
 
 "Valthan. Speak plainly."
 
-"Why don't you, friend? You're a fugitive. The reeve of Fertheaux has successfully petitioned the Marquis for your arrest. Word reached me several days ago. The Baron intends to honor it, though he did not know you'd come knocking."
+"Why don't you, friend? You're a fugitive. The reeve of Fertheaux has successfully petitioned your Marquis for your arrest. Word reached me several days ago. The Baron intends to honor the warrant on this Marquis' behalf, though he did not know you'd come knocking."
 
-I took his advice—not doing anything I might regret—and clammed up. The ranger was waiting just outside the door, within shouting distance of the rest of the household citizens-at-arms. I was not adequately prepared for an escape.
+I took his advice—not doing anything I might regret—and clammed up. The ranger was waiting just outside the door, within shouting distance of the rest of the household citizens-at-arms. That door was the only exit. I was not adequately prepared for an escape.
 
-How did he know? I had believed we had traveled well ahead of any such news. Since I wasn't at my post in Ilianath, there would be nobody for Henri to prevail upon to send a message faster than the speed of a march down the old league roads. And no obvious couriers had passed us. I hadn't been worrying about this at all. If only I had been.
+How did he know? I had believed we had traveled well ahead of any such news. Since I wasn't at my post in Ilianath, there would be nobody for Henri to prevail upon to send a message faster than the speed of a march down the old league roads. And no obvious couriers had passed us as we had done just that. I hadn't been worrying about this at all. If only I had been.
 
 Valthan shook his head again. Sadly, this time. More ersatz sympathy? It was hard to say. "Friend, tell me what you intend. Perhaps I can help."
 
