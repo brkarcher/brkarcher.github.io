@@ -13,7 +13,7 @@ But a tower is not just good for defense: it is also good for proper wizarding.
 
 "Good evening, my friend."
 
-Valthan seems to have shared my affinity towers, and in the lonely darkness before dawn, he had probably been conducting his studies cooped up in a laboratory at the top of it. I had made my escape directly toward him.
+Valthan seems to have shared my affinity for towers, and in the lonely darkness before dawn, he had probably been conducting his studies cooped up in a laboratory at the top of it. I had made my escape directly toward him.
 
 "Morning, by my reckoning. I fear I have overstayed my welcome, and I shall be..."
 
