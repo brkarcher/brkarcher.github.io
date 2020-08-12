@@ -12,7 +12,7 @@ The tome on the right held some of those... and more.
 
 Match unrolled a piece of scratch parchment: a temporary medium for the messy chyme of the long digestion required to understand his departed colleague's notes. He laid it out on the desk in the space between the spellbooks. Then he dipped his quill in ink, moved it to the note sheet, scanned his eyes to the top of the right-hand book, and began.
 
-*Illusion, *Unseeming*, triplicate in essentia...*
+*Illusion, Unseeming, triplicate in essentia...*
 
 ---
 
