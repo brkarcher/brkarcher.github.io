@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: A Letter Concerning Exus
 breadcrumb:
   - name: Home
     url: /

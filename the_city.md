@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: The City
 breadcrumb:
   - name: Home
     url: /

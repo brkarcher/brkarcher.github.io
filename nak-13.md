@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: The Legend of Nak XIII
 breadcrumb:
   - name: Home
     url: /

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: V for Vendetta
 breadcrumb:
   - name: Home
     url: /

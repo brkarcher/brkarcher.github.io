@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: The Queen of Air and Darkness
 breadcrumb:
   - name: Home
     url: /

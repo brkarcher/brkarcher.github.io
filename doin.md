@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: Dóin  
 breadcrumb:
   - name: Home
     url: /

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: Operation: Prophet
 breadcrumb:
   - name: Home
     url: /

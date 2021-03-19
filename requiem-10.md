@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: Death of a Wizard X
 breadcrumb:
   - name: Home
     url: /

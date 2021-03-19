@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: Letter from Lyndis V
 breadcrumb:
   - name: Home
     url: /

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: An Acolyte's Preamble
 breadcrumb:
   - name: Home
     url: /

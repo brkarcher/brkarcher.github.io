@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: Torch
 breadcrumb:
   - name: Home
     url: /

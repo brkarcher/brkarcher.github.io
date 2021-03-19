@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: Time of Need
 breadcrumb:
   - name: Home
     url: /

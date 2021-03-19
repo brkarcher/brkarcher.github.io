@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: The Sword in the Stone
 breadcrumb:
   - name: Home
     url: /

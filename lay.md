@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: Lay Your Head Down
 breadcrumb:
   - name: Home
     url: /

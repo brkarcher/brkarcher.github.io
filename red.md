@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: Red and Yankee
 breadcrumb:
   - name: Home
     url: /

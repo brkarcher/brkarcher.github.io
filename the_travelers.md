@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: The Travelers
 breadcrumb:
   - name: Home
     url: /

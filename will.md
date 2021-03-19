@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: A Letter to Her Majesty
 breadcrumb:
   - name: Home
     url: /

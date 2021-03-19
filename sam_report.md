@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: Sam
 breadcrumb:
   - name: Home
     url: /

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Midnight Oil
+title: Kaze
 breadcrumb:
   - name: Home
     url: /
