@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>{{ page.title }}</title>
+		<link rel="stylesheet" type="text/css" href="/moil.css">
+	</head>
+	<body>
+		{{ content }}
+		{% assign breadcrumbcount = page.breadcrumb | size %}
+		{% if breadcrumbcount != 0 %}
+			<footer>
+				<hr/>
+				<a href="{{ page.breadcrumb[0].url }}">{{ page.breadcrumb[0].name }}</a>
+			</footer>
+		{% endif %}
+	</body>
+</html>
