@@ -19,6 +19,7 @@ layout: none
 			<id>{{ page.url | absolute_url | xml_escape }}</id>
 			<published>{{ page.feed_date | date_to_xmlschema }}</published>
 			<updated>{{ page.feed_date | date_to_xmlschema }}</updated>
-			<content type="html" xml:base="{{ page.url | absolute_url | xml_escape }}">{{ page.content | strip | xml_escape }}</content>
+			<content type="html" xml:base="{{ page.url | absolute_url | xml_escape }}">{{ page.content | markdownify }}</content>
+
 		</entry>{% endfor %}
 </feed>
