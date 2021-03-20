@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-date: 2013-10-01
+date: 2013-10-10
 ---
 To be, or not to be, that is the question:  
 Whether 'tis Nobler in the mind to suffer  

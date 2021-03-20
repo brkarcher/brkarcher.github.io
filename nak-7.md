@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-date: 2013-10-01
+date: 2013-10-07
 ---
 It was, of course, not the end.  There was another bell to ring, somewhere in the deep, forbidding caves beneath Lordran.  Nak had a long quest ahead of him.
 

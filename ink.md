@@ -4,9 +4,11 @@ title: Fresh Ink
 breadcrumb:
   - name: Home
     url: /
-excerpt_separator: <!--more-->
+feed: true
+date: 2021-03-20
+excerpt: The other day while staring at my work monitor and waiting for rsync to run I had a realization. 
 ---
-The other day while staring at my work monitor and waiting for `rsync` to run I had a realization. <!--more-->I'd never been able to imagine the 50 year old version of myself before.
+The other day while staring at my work monitor and waiting for `rsync` to run I had a realization. I'd never been able to imagine the 50 year old version of myself before.
 
 Sure, if you sat me down and asked me to describe the likely outcome of the next nineteen years I'd have been able to put some words on a page that would ring true. But there was a barrier there: children. I knew there were kids in my future, and somehow I imagined some sort of transformation involved there, whether that was to be some sort of transformation of myself into something else (a dad) or a transformation of the texture of my day-to-day life into something else (not on my own terms any more). As a result I had difficulty imagining anything past that event horizon.
 

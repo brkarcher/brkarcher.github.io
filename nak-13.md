@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-date: 2013-10-01
+date: 2013-10-13
 ---
 Nito was ~~dead~~ ~~laid to rest~~ vanquished.  Nak possessed his soul, and with it, whatever primordial power of Death still lingered within it.
 

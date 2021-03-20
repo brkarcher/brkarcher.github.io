@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-date: 2013-10-01
+date: 2013-10-11
 ---
 *Let there be no guilt.  Let there be no vacillation.*
 

@@ -13,12 +13,10 @@ title: The Midnight Oil
 
 <h2>Fresh Ink</h2>
 
-{% assign posts = site.posts | sort: "date" | reverse %}
-{% for post in posts %}
-<p><b>{{ post.title }}</b>: {{ post.excerpt | strip_html }} <a href={{ post.url }} title="Continue reading">&gt;&gt;</a></p>
+{% assign pages = site.pages | where:"feed","true" | sort: "date" | reverse %}
+{% for page in pages limit: 3%}
+<p><b>{{ page.title }}</b>: {{ page.excerpt | strip_html }} <a href={{ page.url }} title="Continue reading">&gt;&gt;</a></p>
 {% endfor %}
-
-<p><a href="archive.html">Archive</a></p>
 
 <hr/>
 
@@ -40,7 +38,7 @@ title: The Midnight Oil
 	<a href="requiem-14.html" title="Orha's Eye">XIV</a>
 </p>
 
-<h2>Tabletop Paraphernalia:</h2>
+<h2>Tabletop Paraphernalia</h2>
 <ul>
 	<li><a href="match-alternate.html">Match (alternate)</a></li>
 	<li><a href="leaf.html">Leaf</a></li>
@@ -91,7 +89,7 @@ title: The Midnight Oil
 	<li>From the Hand of Fen: <a href="hand-fen-1.html">I</a>, <a href="hand-fen-2.html">II</a></li>
 </ul>
 
-<h2>Some story meditations:</h2>
+<h2>Story Meditations</h2>
 <ul>
 	<li><a href="sword_in_the_stone.html">The Sword in the Stone</a></li>
 	<li><a href="queen_air_darkness.html">The Queen of Air and Darkness</a></li>
@@ -114,4 +112,7 @@ title: The Midnight Oil
 	<a href="nak-13.html">XIII</a>, 
 	<a href="nak-14.html">XIV</a>
 </p>
+
+<h2>Archive</h2>
+<p><a href="archive.html">All pages by publish date</a></p>
 

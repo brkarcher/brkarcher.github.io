@@ -12,7 +12,6 @@ layout: none
 	<id>urn:uuid:f4116555-aa76-40fe-bbab-1f96b186e29e</id>
 
 	{% assign entries = site.pages | where: "feed","true" %}
-	{% assign entries = entries | concat: site.posts %}
 	{% assign entries = entries | sort: "date" | reverse %}
 	{% for entry in entries %}
 		<entry>

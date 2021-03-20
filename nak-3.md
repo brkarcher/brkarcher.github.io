@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-date: 2013-10-01
+date: 2013-10-03
 ---
 Lordran, land of the Undead, is a strange place indeed.  It is said that the closest thing an Undead can have to a home is one of the several bonfires scattered throughout its labyrinthine terrain.  Outside of those bonfires, time twists and warps and bends back upon itself.  One of the effects of this is that when an Undead warrior cleaves through the hordes to reach a bonfire and rests there, he will leave the bonfire to find that those hordes have returned, exactly as he encountered them the first time.
 

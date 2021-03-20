@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-date: 2020-06-18
+date: 2020-06-25
 ---
 Chapter X: Relation
 -------------------
