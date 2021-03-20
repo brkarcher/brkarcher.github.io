@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2014-10-01
+date: 2014-10-01
 ---
 The campaign setting is something we've nicknamed the Pale Dominions and was cooked up by a bunch of us over a game called Dawn of Worlds.  It's got all of your typical Fantasy Heartbreaker features, so if you can imagine it as part of your character's story, it's *probably* somewhere in the world.
 

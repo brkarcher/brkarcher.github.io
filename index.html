@@ -7,6 +7,23 @@ title: The Midnight Oil
 	<aside>A blog and internet <a href="about.html">hidey-hole.</a></aside>
 </header>
 
+<br/>
+
+<hr/>
+
+<h3>Fresh Ink</h3>
+
+{% assign posts = site.posts | sort: "date" | reverse %}
+{% for post in posts %}
+<p><b>{{ post.title }}</b>: {{ post.excerpt | strip_html }} <a href={{ post.url }} title="Continue reading">&gt;&gt;</a></p>
+{% endfor %}
+
+<p><a href="archive.html">Archive</a></p>
+
+<hr/>
+
+<br/>
+
 <h3>Death of a Wizard</h3>
 <p>
 	<a href="requiem-1.html" title="The Letter">I</a>, 

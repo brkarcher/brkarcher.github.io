@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2019-09-01
+date: 2019-09-01
 ---
 Kaze pushed the empty tankard of ale to the edge of the table and folded his hands together.
 

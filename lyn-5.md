@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2016-06-01
+date: 2016-06-01
 ---
 Agent Seven,
 ​

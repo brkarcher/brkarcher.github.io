@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2020-01-01
+date: 2020-01-01
 ---
 The cell door gave an ear-splitting creak, and several muddy boots tromped through it. Fuze stirred.
 

@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2013-10-01
+date: 2013-10-01
 ---
 Forward, step, step, thrust!  Shield up, back, backstep-forward-lunge!  Take it easy.  Back... way back, stop... up, up, lunge!  Such was the rhythm in Nak's head.  It was like an old fencing bout: forward and backward, staying out of reach until it was time to strike.
 

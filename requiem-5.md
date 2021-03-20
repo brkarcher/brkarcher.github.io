@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2020-06-16
+date: 2020-06-16
 ---
 Chapter V: Psychomancy
 ----------------------

@@ -1,0 +1,11 @@
+---
+layout: default
+title: Dried Ink
+breadcrumb:
+  - name: Home
+    url: /
+---
+{% assign posts = site.posts | sort: "date" | reverse %}
+{% for post in site.posts %}
+<p><b>{{ post.title }}</b>: {{ post.excerpt | strip_html }} <a href={{ post.url }} title="Continue reading">&gt;&gt;</a></p>
+{% endfor %}

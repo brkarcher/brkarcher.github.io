@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2018-03-01
+date: 2018-03-01
 ---
 Match was of two minds facing this obstacle.
 

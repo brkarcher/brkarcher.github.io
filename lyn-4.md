@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2016-03-01
+date: 2016-03-01
 ---
 Dear Mother,
 

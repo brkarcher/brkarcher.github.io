@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2013-07-01
+date: 2013-07-01
 ---
 
 # Lord Taigan

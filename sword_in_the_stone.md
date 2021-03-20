@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2014-04-01
+date: 2014-04-01
 ---
 *Spoilers for* The Sword in the Stone *ahead.  Eventually.*
 

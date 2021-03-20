@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Operation: Prophet
+title: Operation Prophet
 breadcrumb:
   - name: Home
     url: /

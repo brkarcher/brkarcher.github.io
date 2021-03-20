@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2016-04-01
+date: 2016-04-01
 ---
 "Just lay your head down, lassy.  Those horns must be heavy."
 

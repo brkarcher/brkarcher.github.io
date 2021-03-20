@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2020-06-21
+date: 2020-06-21
 ---
 Chapter XI: Safe Travels
 ------------------------

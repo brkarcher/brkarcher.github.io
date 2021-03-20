@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2013-10-01
+date: 2013-10-01
 ---
 Nak was in uncharted territory for the first time in several days (now that he could navigate Blighttown in his nightmares).  He inched forward, shield first.
 

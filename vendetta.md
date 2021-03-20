@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2015-02-01
+date: 2015-02-01
 ---
 
 But Who Will Vet our Vendetta?

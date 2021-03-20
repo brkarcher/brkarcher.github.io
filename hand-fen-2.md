@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2020-02-01
+date: 2020-02-01
 ---
 > You're such an insufferable flirt. Have you laid any of that on your new companions?
 > 

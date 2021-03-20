@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2017-11-01
+date: 2017-11-01
 ---
 Kalas, Dortmund, and Lucine crept through the brush as slowly as they could manage.
 

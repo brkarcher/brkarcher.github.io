@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2014-10-01
+date: 2014-10-01
 ---
 > O, Mighty Seas!  
 > What life you have given, and recompense you will take!  

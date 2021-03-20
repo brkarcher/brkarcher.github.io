@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2014-05-01
+date: 2014-05-01
 ---
 Just like my prior [sermon](http://themidnightoil.net/sword_in_the_stone.html) on *The Sword in the Stone*, I'm going to begin this one on *The Queen of Air and Darkness* with a cruel, vital critique.
 

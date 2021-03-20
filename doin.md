@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2016-09-01
+date: 2016-09-01
 ---
 Dóin watched the river's sunlit waters drift placidly past.
 

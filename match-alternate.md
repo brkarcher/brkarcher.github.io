@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2020-08-01
+date: 2020-08-01
 ---
 Match lit the candle at the corner of the desk. He didn't need to, really, but maybe that was the point.
 

@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2018-04-01
+date: 2018-04-01
 ---
 Your Majesty,
 

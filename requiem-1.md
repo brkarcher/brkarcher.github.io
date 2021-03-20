@@ -6,7 +6,7 @@ breadcrumb:
     url: /
 feed: true
 feed: true
-feed_date: 2020-06-16
+date: 2020-06-16
 ---
 Chapter I: The Letter
 ---------------------

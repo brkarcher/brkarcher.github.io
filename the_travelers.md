@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2015-01-01
+date: 2015-01-01
 ---
 
 Religion

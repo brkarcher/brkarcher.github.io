@@ -5,7 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 feed: true
-feed_date: 2017-05-01
+date: 2017-05-01
 ---
 Dear Abel,
 
