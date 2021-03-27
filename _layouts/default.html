@@ -8,6 +8,13 @@
 	</head>
 	<body>
 		{{ content }}
+		{% if page.next or page.prev %}
+			<p style="text-align: center">
+				{% if page.prev %}<a href="{{ page.prev }}">Previous</a>{% endif %}
+				{% if page.next and page.prev %} | {% endif %}
+				{% if page.next %}<a href="{{ page.next }}">Next</a>{% endif %}
+			</p>
+		{% endif %}
 		{% assign breadcrumbcount = page.breadcrumb | size %}
 		{% if breadcrumbcount != 0 %}
 			<footer>
