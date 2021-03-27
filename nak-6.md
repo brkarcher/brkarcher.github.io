@@ -6,6 +6,8 @@ breadcrumb:
     url: /
 feed: true
 date: 2013-10-06
+prev: nak-5.html
+next: nak-7.html
 ---
 Nak woke up.
 
@@ -47,4 +49,3 @@ Nak killed the Bell Gargoyles and rang the Bell of Awakening.
 
 The End.
 
-[The Legend continues.](nak-7.html)

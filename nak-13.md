@@ -6,6 +6,8 @@ breadcrumb:
     url: /
 feed: true
 date: 2013-10-13
+prev: nak-12.html
+next: nak-14.html
 ---
 Nito was ~~dead~~ ~~laid to rest~~ vanquished.  Nak possessed his soul, and with it, whatever primordial power of Death still lingered within it.
 
@@ -65,4 +67,3 @@ Nak died.
 
 Now that he had the time for self-reflection, Nak mused that maybe he wasn't quite as unstoppable as he thought he was.
 
-[The Legend continues.](nak-14.html)

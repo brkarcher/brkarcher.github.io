@@ -6,6 +6,8 @@ breadcrumb:
     url: /
 feed: true
 date: 2013-10-11
+prev: nak-10.html
+next: nak-12.html
 ---
 *Let there be no guilt.  Let there be no vacillation.*
 
@@ -130,4 +132,3 @@ Piercing screech.
 
 That was only three.  Where's the fourth?  Oh, there's a bonfire here.  Oh, there's the shard of Lord Gwyn's soul.  Good enough.
 
-[The Legend continues.](nak-12.html)

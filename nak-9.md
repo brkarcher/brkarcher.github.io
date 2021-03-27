@@ -6,6 +6,8 @@ breadcrumb:
     url: /
 feed: true
 date: 2013-10-09
+prev: nak-8.html
+next: nak-10.html
 ---
 Nak was in uncharted territory for the first time in several days (now that he could navigate Blighttown in his nightmares).  He inched forward, shield first.
 
@@ -59,4 +61,3 @@ But it was over now.  Nak's long nightmare was finally over.  The Lordvessel cou
 
 Whatever.  Good enough.
 
-[The Legend continues.](nak-10.html)

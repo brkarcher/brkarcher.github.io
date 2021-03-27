@@ -6,6 +6,8 @@ breadcrumb:
     url: /
 feed: true
 date: 2013-10-04
+prev: nak-3.html
+next: nak-5.html
 ---
 Forward, step, step, thrust!  Shield up, back, backstep-forward-lunge!  Take it easy.  Back... way back, stop... up, up, lunge!  Such was the rhythm in Nak's head.  It was like an old fencing bout: forward and backward, staying out of reach until it was time to strike.
 
@@ -37,4 +39,3 @@ Nak died.
 
 Well, it was probably time to check out that door in the bridge room.
 
-[The Legend continues.](nak-5.html)

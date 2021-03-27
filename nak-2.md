@@ -6,6 +6,8 @@ breadcrumb:
     url: /
 feed: true
 date: 2013-10-02
+prev: nak-1.html
+next: nak-3.html
 ---
 The sword whispered as it flew through the cold air, and it nearly rang as it pulled across bone.
 
@@ -51,4 +53,3 @@ Nak died.
 
 But at least it wasn't the goddamn skeletons.
 
-[The Legend continues.](nak-3.html)

@@ -6,6 +6,7 @@ breadcrumb:
     url: /
 feed: true
 date: 2013-10-14
+prev: nak-13.html
 ---
 The centipede demon bounded to and fro, occasionally landing directly above Nak, who thrashed about at it whenever it was nearby.  His footwork was stodgy, given the space limitations (four steps in the wrong direction would take Nak into the magma pit), and his bladework was panicked, given the demon's bizarre urge to stand directly overhead.
 

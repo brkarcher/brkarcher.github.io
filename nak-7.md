@@ -6,6 +6,8 @@ breadcrumb:
     url: /
 feed: true
 date: 2013-10-07
+prev: nak-6.html
+next: nak-8.html
 ---
 It was, of course, not the end.  There was another bell to ring, somewhere in the deep, forbidding caves beneath Lordran.  Nak had a long quest ahead of him.
 
@@ -45,4 +47,3 @@ Nak returned to Firelink shrine.  All he wanted to do was destroy something.  So
 
 Sorcery, huh.  Promising.
 
-[The Legend continues.](nak-8.html)

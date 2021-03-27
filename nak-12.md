@@ -6,6 +6,8 @@ breadcrumb:
     url: /
 feed: true
 date: 2013-10-12
+prev: nak-11.html
+next: nak-13.html
 ---
 Nak stood up from the bonfire and did something he had been waiting weeks to do.
 
@@ -143,4 +145,3 @@ For once, Frampt's words had some sort of meaning: let there be no guilt, no vac
 
 Nak jumped down into Nito's cold, stony lair and charged forward, his greatsword singing.
 
-[The Legend continues.](nak-13.html)

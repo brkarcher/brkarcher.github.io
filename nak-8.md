@@ -6,6 +6,8 @@ breadcrumb:
     url: /
 feed: true
 date: 2013-10-08
+prev: nak-7.html
+next: nak-9.html
 ---
 ## Training Montage
 
@@ -95,4 +97,3 @@ Nak was running out of purple moss to treat his poisonous fevers when he stepped
 
 Before long, Nak was pulling with all of his might to ring the second and final Bell of Awakening and truly begin his quest to end the curse of the undead.
 
-[The Legend continues.](nak-9.html)

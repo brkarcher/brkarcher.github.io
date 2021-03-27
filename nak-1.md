@@ -6,6 +6,7 @@ breadcrumb:
     url: /
 feed: true
 date: 2013-10-01
+next: nak-2.html
 ---
 # The Legend of Nak
 
@@ -73,4 +74,3 @@ Before him rose, suddenly, a raven with a twenty foot wingspan. He held his pose
 
 In his mind, all he could think was: "WHERE THE FUCK DO THEY MAKE BIRDS THAT BIG"
 
-[The Legend continues.](nak-2.html)

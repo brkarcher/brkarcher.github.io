@@ -6,6 +6,8 @@ breadcrumb:
     url: /
 feed: true
 date: 2013-10-05
+prev: nak-4.html
+next: nak-6.html
 ---
 The stairs curled up around the turret before straightening out, up through one gate, under an arched bridge, and through a second, closed gate.
 
@@ -60,4 +62,3 @@ Nak died.
 
 He awoke at the bonfire above Andrei's workshop, listening to the regular *tink-tink-tink* of the blacksmith's hammer.  He put his shiny new equipment aside.  This had worked before, why not again?  Nak went to bed, counting hammers instead of sheep.
 
-[The Legend continues.](nak-6.html)

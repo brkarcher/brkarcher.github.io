@@ -6,6 +6,8 @@ breadcrumb:
     url: /
 feed: true
 date: 2013-10-10
+prev: nak-9.html
+next: nak-11.html
 ---
 To be, or not to be, that is the question:  
 Whether 'tis Nobler in the mind to suffer  
@@ -43,4 +45,3 @@ And lose the promise of Defeat. Soft you now,
 Fat Smough and Swift Ornstein? Foes, in thy Trouncings  
 Be all my deaths made worthy.  
 
-[The Legend continues.](nak-11.html)
