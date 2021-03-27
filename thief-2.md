@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Thief
+title: The Thief, part 2
 breadcrumb:
   - name: Home
     url: /
@@ -9,7 +9,7 @@ date: 2021-03-27
 excerpt: The door at the top of the curling staircase lay wide open, revealing a darkened, bleak little room...
 prev: thief.html
 ---
-The door at the top of the curling staircase lay wide open, revealing a darkened, bleak little room containing nothing but a half-full barrel of fresh water, a lidded crate, an empty sconce on the stone wall, and a little wooden stool sitting next to a stack of dirty wooden plates. Not even a table to spare for the guard on watch to eat his meals. Syr has a chuckle at the expense of the giant gaoler, imagining him eating a plate of too-cold gruel sitting on a too-small stool.
+The door at the top of the curling staircase lay wide open, revealing a darkened, bleak little room containing nothing but a half-full barrel of fresh water, a lidded crate, an empty sconce on the stone wall, and a little wooden stool sitting next to a stack of dirty wooden plates. Not even a table to spare for the guard on watch to eat his meals. Syr had a chuckle at the expense of the giant gaoler, imagining him eating a plate of too-cold gruel sitting on a too-small stool.
 
 Syr slid the lid off the crate to rifle through its contents, supposing that her meager possessions could only be there. She wasn't in the mood to waste time—that nobleman looked like the kind of man who wouldn't hesitate to literally kick her from the room for ruining the sanctity of his shitty hole of a castle—so when the cell door downstairs slammed and she still hadn't found her tunic and hose (and more importantly, her shoes), she grabbed an armful of everything off the top, pulled the lid back over, and bolted from the room.
 

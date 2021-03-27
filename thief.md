@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Thief
+title: The Thief, part 1
 breadcrumb:
   - name: Home
     url: /
