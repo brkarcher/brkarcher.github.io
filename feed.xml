@@ -19,7 +19,7 @@ layout: none
 			<link href="{{ entry.url | absolute_url }}"/>
 			<id>{{ entry.url | absolute_url | xml_escape }}</id>
 			<published>{{ entry.date | date_to_xmlschema }}</published>
-			<updated>{{ entry.date | date_to_xmlschema }}</updated>
+			<updated>{{ entry.update | default: entry.date | date_to_xmlschema }}</updated>
 			<content type="xhtml" xml:base="{{ entry.url | absolute_url | xml_escape }}">
 				<div xmlns="http://www.w3.org/1999/xhtml">{{ entry.content | markdownify }}</div>
 			</content>
