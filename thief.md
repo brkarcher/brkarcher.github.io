@@ -6,9 +6,11 @@ breadcrumb:
     url: /
 feed: true
 date: 2021-03-23
+update: 2021-03-27
 excerpt: Syr listened to the darkness.
+next: thief-2.html
 ---
-# Chapter I: The Thief
+# Chapter I: A Change of Clothes
 
 Syr listened to the darkness.
 
@@ -58,7 +60,9 @@ Syr was feeling lucky. "And why's that?"
 
 "GET OUT" bellowed the gaoler, into the face of the new prisoner but clearly _at_ Syr.
 
-Syr did not press said luck. She made for the door. The polished man—now visible as an aristocrat of some sort, wearing a fine doublet and an even finer cloak—watched her leave with an icy stare. She made eye contact to try to pry some details from him, but realized quickly that his bloodshot eyes were tracking her hands.
+Syr did not press said luck. She made for the door. The polished man—now in the light of the doorway as an aristocrat of some sort, wearing a fine doublet and an even finer cloak—watched her leave with an icy stare. She made eye contact to try to pry some details from him, but realized quickly that his bloodshot eyes were tracking her hands.
 
 Smart.
+
+He watched her disappear all the way up the staircase as it wound up to the ground floor.
 
