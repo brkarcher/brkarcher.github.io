@@ -8,6 +8,7 @@ feed: true
 date: 2021-03-27
 excerpt: The door at the top of the curling staircase lay wide open, revealing a darkened, bleak little room...
 prev: thief.html
+next: thief-3.html
 ---
 The door at the top of the curling staircase lay wide open, revealing a darkened, bleak little room containing nothing but a half-full barrel of fresh water, a lidded crate, an empty sconce on the stone wall, and a little wooden stool sitting next to a stack of dirty wooden plates. Not even a table to spare for the guard on watch to eat his meals. Syr had a chuckle at the expense of the giant gaoler, imagining him eating a plate of too-cold gruel sitting on a too-small stool.
 
