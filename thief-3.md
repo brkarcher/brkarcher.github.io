@@ -8,6 +8,7 @@ feed: true
 date: 2021-03-29
 excerpt: "\"WHERE DO I FIND THEM?\" Syr shouted into the man's face." 
 prev: thief-2.html
+next: thief-4.html
 ---
 # Chapter II: The Thief
 
