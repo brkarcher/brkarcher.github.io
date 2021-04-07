@@ -6,7 +6,7 @@ breadcrumb:
     url: /
 feed: true
 date: 2021-04-06
-excerpt: 
+excerpt: "My dad was a scribe. We lived in the ass end of the Kingdom..."
 prev: thief-3.html
 ---
 "My dad was a scribe. We lived out in the ass end of the Kingdom, past the end of the desert and out in the scrublands, with the thin, cold air. His job was to receive written word from the capitol, about half the time directly from the King's court, and do whatever it said, or give the orders to do whatever it said. We were close with the tax collector's family, which made us oh so popular.
