@@ -8,6 +8,7 @@ feed: true
 date: 2021-04-16
 excerpt: Syr edged along the rooftop, heels against the stonework and toes over the precipice.
 prev: thief-pro.html
+next: thief-6.html
 ---
 
 _Author's note: after a conversation with a friend, I've decided that I started the story too early in its chronology. I've rearranged the prior chapters into a prologue. This is the new first chapter!_
