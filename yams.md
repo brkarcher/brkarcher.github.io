@@ -6,16 +6,17 @@ breadcrumb:
     url: /
 feed: true
 date: 2021-04-27
-excerpt: I like Battletech. BUT
+excerpt: I like BattleTech. BUT
+next: yams-2.html
 ---
 
-I like Battletech. I like it a lot. I was never much of a tabletop wargame guy—I never got into 40k or the original Battletech games or what have you—but I played _Mechwarrior 3_ at a friend's place in 1999 or 2000 and the game hooked me.
+I like BattleTech. I like it a lot. I was never much of a tabletop wargame guy—I never got into 40k or the original BattleTech games or what have you—but I played _Mechwarrior 3_ at a friend's place in 1999 or 2000 and the game hooked me.
 
 Here's the good stuff:
 
 #### The Milsim Feel
 
-Battletech has a mixed heritage and expresses different aspects of that heritage in its spinoffs. MicroProse, the company that developed Mechwarrior 3, had a ton of experience in military simulation style games (including _Falcon 4.0_ and _Formula One Grand Prix_) and brought _Mechwarrior 3_ to life as a future-style military simulation.
+BattleTech has a mixed heritage and expresses different aspects of that heritage in its spinoffs. MicroProse, the company that developed Mechwarrior 3, had a ton of experience in military simulation style games (including _Falcon 4.0_ and _Formula One Grand Prix_) and brought _Mechwarrior 3_ to life as a future-style military simulation.
 
 The main story places the player as a squad leader taking part in an orbital-insertion commando raid carried out against an enemy's production and military infrastructure. Most of the story is conveyed by the [intel officer's briefings](https://www.youtube.com/watch?v=7RxBv7OF3yQ), and the squad struggles to overcome spotty, outdated intelligence and improvises to overcome devastating early setbacks. The fog of war and the struggle of passion, chance, and reason are front and center. The execution is outstanding—go watch that linked video!
 
@@ -29,11 +30,11 @@ This is an interesting complement to the above: milsim focuses on a hard-eyed lo
 
 But! It's someone else's setting. I can't do creative stuff in it with a potential commercial audience.
 
-And there are a few things that drive me a little bit crazy about Battletech. Remember how I enjoy the high-verisimilitude military aspects of the setting? Well, Battletech isn't always about that. And that's not a *flaw* in Battletech. Battletech is great and worthy of its long tenure as a creative font! It's just that the setting, often, does not cater to my fixations. Here's how:
+And there are a few things that drive me a little bit crazy about BattleTech. Remember how I enjoy the high-verisimilitude military aspects of the setting? Well, BattleTech isn't always about that. And that's not a *flaw* in BattleTech. BattleTech is great and worthy of its long tenure as a creative font! It's just that the setting, often, does not cater to my fixations. Here's how:
 
 #### Guns?
 
-Battletech makes some compromises in the name of having a nice, balanced tabletop game, and as a result some of the *stuff* is a bit nonsensical. This is, of course, okay! In principle, anyway. But it can undermine the milsim feel.
+BattleTech makes some compromises in the name of having a nice, balanced tabletop game, and as a result some of the *stuff* is a bit nonsensical. This is, of course, okay! In principle, anyway. But it can undermine the milsim feel.
 
 One of the bigger head-scratchers is the nature of mech weaponry. The ballistic weapons in the game have pathetically short ranges compared to real-life 21st century counterparts. In the _Battletech_ video game from 2018 an AC/2 autocannon has an effective range of 720m. Meanwhile, the [main armament on US-manufactured battle tanks right now](https://en.wikipedia.org/wiki/Rheinmetall_Rh-120) has an effective firing range out to four kilometers, and past that with specialty ammunition. Military science is difficult to research on the internet, but some rooting around indicates to me that Gulf War tank engagements between the U.S. Army and the Iraqi Republican Guard tended to unfold at ranges around 2 and 3 kilometers.
 
@@ -51,7 +52,7 @@ And, even in the games that emphasize the milsim aspect of the setting, they emb
 
 #### Space?
 
-Space is cool, no doubt. But one thing about war-in-space settings is that they struggle with the sheer scale of a spacefaring, planet-colonizing humanity. Battletech's sources apparently put the human population of the Inner Sphere (i.e. most of settled space) at about 6 trillion, which seems roughly appropriate. But with control of the population concentrated into a handful of warrior aristocracies, there ought to be an astronomical pool of resources for each to draw from to wage war. This should be a leap like the leap in scale and ferocity from early modern warfare to modern warfare, enabled by fully mobilized industrial capacities, a leap so big as to truly shock the generation that endured it. An advancement from our current understanding of warfare to the 31st century warfare of 6 trillion humans ought to be stunning.
+Space is cool, no doubt. But one thing about war-in-space settings is that they struggle with the sheer scale of a spacefaring, planet-colonizing humanity. BattleTech's sources apparently put the human population of the Inner Sphere (i.e. most of settled space) at about 6 trillion, which seems roughly appropriate. But with control of the population concentrated into a handful of warrior aristocracies, there ought to be an astronomical pool of resources for each to draw from to wage war. This should be a leap like the leap in scale and ferocity from early modern warfare to modern warfare, enabled by fully mobilized industrial capacities, a leap so big as to truly shock the generation that endured it. An advancement from our current understanding of warfare to the 31st century warfare of 6 trillion humans ought to be stunning.
 
 This isn't really borne out in the fiction. Of course it's a limitation of the genre (it's a tabletop game at heart), but the setting also attempts to impose some old medieval fantasy-esque associations that might be partly intended to modulate the scale of the warfare (it's largely conducted by mercenaries, who sort of fill a chivalric role of "knight-errant", at the behest of the monarchs). But this, then, becomes the point of incongruity: how is it possible that the universe has not become completely dominated by the first faction to even try to assemble an army? A real, actual army, befitting its size and industrial might, and not a tiny gaggle of irregulars paid with pocket change?
 
@@ -65,7 +66,7 @@ If the United States Army could just contract with General Dynamics to produce s
 
 Okay, so I kind of went in there, and this seems like a pretty severe complaint about the setting, but I don't think of it as a show-stopper or anything. I have a similar impression of many space operas and other soft sci-fi settings: they fail to grasp or even gesture toward the destructive scale of wars within our living memory, let alone wars that ought to be a thousand times larger. And more to the point, this sort of thing is probably well beyond our imagining, and it isn't the dang *point*. Tableop wargames are for having fun, not for managing a hundred-million-soldier war machine or for or feeling miserable about some elaborately imagined human suffering elsewhere in the setting. Warhammer 40k, to my understanding, is the one setting that engages with the maddening scale of total war, and its brand of grimdark and midnight-black humor is unique and celebrated, and not every game should be a 40k clone. The others might prefer to focus on other things, gloss over the numbers, and have fun in space—and that's great! And besides: smaller scales tend to allow players to take more of the spotlight (in video games and roleplaying games and so on) in the setting, so it's generally a good thing.
 
-But! As I noted before, I really enjoy the high-verisimilitude expressions of the Battletech setting. The implications of the spacefaring scale interact poorly with them and tend to need to be glossed over.
+But! As I noted before, I really enjoy the high-verisimilitude expressions of the BattleTech setting. The implications of the spacefaring scale interact poorly with them and tend to need to be glossed over.
 
 ### So...
 
