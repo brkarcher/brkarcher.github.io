@@ -4,10 +4,7 @@ title: "The Thief: Prologue"
 breadcrumb:
   - name: Home
     url: /
-feed: false
-date: 2021-04-16
-excerpt: Syr listened to the darkness.
-next: thief-5.html
+next: thief-ch-1.html
 ---
 
 # Prologue
