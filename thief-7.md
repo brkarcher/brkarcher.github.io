@@ -8,6 +8,7 @@ feed: true
 date: 2021-05-21
 excerpt: The actual fencing turned out to be much less gratifying than Syr had hoped.
 prev: thief-6.html
+next: thief-8.html
 ---
 
 The actual fencing turned out to be much less gratifying than Syr had hoped. Her score was five delicate chains (all of poor craftsmanship), three gemstones (two fakes and a very small but very real diamond), a golden ring, and a thoroughly ersatz bangle. The diamond itself was enough to pay for over a month's food and board after Syr held her ground in the haggle. But even despite the victory, it was hardly the wealth promised by the initial sparkle of the jewelry drawer. And it was just deflating to be presented with the list of unhappy appraisals, each indisputable.

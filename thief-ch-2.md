@@ -5,6 +5,7 @@ breadcrumb:
   - name: Home
     url: /
 prev: thief-ch-1.html
+next: thief-ch-3.html
 ---
 
 # Chapter II: Friends
