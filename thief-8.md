@@ -8,6 +8,7 @@ feed: true
 date: 2021-05-30
 excerpt: The morning would have found Syr aching and restless, curled over the small lump of coin hidden on the left side of the cloak.
 prev: thief-7.html
+next: thief-9.html
 ---
 
 The morning would have found Syr aching and restless, curled over the small lump of coin hidden on the left side of the cloak. But Syr had hidden herself too well to be found my the morning, renting the tiniest windowless room in the finest traveler's inn she could find, a hightown establishment owned and operating by some sort of merchant collective.
