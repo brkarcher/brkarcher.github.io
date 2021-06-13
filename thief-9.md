@@ -6,8 +6,9 @@ breadcrumb:
     url: /
 feed: true
 date: 2021-06-05
-excerpt: \"I don't see anything. Obviously.\"
+excerpt: "\"I don't see anything. Obviously.\""
 prev: thief-8.html
+next: thief-10.html
 ---
 
 "I don't see anything. Obviously."
