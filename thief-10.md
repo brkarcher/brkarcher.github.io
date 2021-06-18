@@ -8,6 +8,7 @@ feed: true
 date: 2021-06-12
 excerpt: Syr stood, and so did the soothsayer.
 prev: thief-9.html
+next: thief-11.html
 ---
 
 Syr stood, and so did the soothsayer.
