@@ -4,13 +4,13 @@ Chancellor Beca Pellwyn frowned at the letter atop the pile. Her secretary, a sh
 
 "Cut with a thick but sharp blade. Warrior's implement of some sort, I'd say," Tormen said. He gestured at the wax seal and the turned up edges of the cut down its center.
 
-"I see," replied the Chancellor. "Nevertheless, they passed it through. Let's have at it."
+"I see," replied the chancellor. "Nevertheless, they passed it through. Let's have at it."
 
 She unfolded the envelope and retrieved from within a letter bearing a matching seal: the Manticore of Duranlach, rampant on an empty field. This seal had not been tampered with.
 
 > The Most Reverend Apostles of the College of Ae's Word,
 >
-> One week after the date of this letter's signing, I will order my Knight-Commander to surrender the garrison at the Rising Stone and receive Emault II and his retinue in the great hall. By then I hope to be escaped by contrivances of my close aides.
+> One week after the date of this letter's signing, I will order my knight-commander to surrender the garrison at the Rising Stone and receive Emault II and his retinue in the great hall. By then I hope to be escaped by contrivances of my close aides.
 > 
 > I will persecute this war no longer. Emault II will have his rule, I suppose. But I received this crown and this mandate from Ae, Goddess of Knowledge and Protector of our Realm, and I cannot in good conscience abdicate those. I beseech you for sanctuary. I prostrate myself before the mercy of the Goddess and the good will of those who spread her Word.
 > 
@@ -37,7 +37,7 @@ The Chancellor sighed. "Good questions both. A test, presumably. Create this fic
 
 "If we're right to see through this as a ruse, we have the upper hand, then, right?"
 
-"In a manner. But we have little room to misrepresent ourselves for the purpose. Anything we reply with here will necessarily be something we must commit to publicly." The Chancellor continued, sighing. "I'll speak with the Librarian first. Then, round up the brothers and sisters of the third degree or higher who call Duranlach and Orland home. I want to meet with them in two separate meetings tomorrow afternoon. Get me their senior members in the morning if you can. I think that would be Brother Kedsen and..."
+"In a manner. But we have little room to misrepresent ourselves for the purpose. Anything we reply with here will necessarily be something we must commit to publicly." The chancellor continued, sighing. "I'll speak with the librarian first. Then, round up the brothers and sisters of the fifth degree or higher who call Duranlach and Orland home. I want to meet with them in two separate meetings tomorrow afternoon. Get me their senior members in the morning if you can. I think that would be Brother Kedsen and..."
 
 "Brother Uthora, I believe."
 
@@ -53,7 +53,7 @@ Having read the letter and conveyed its suspicious and suspected context, Chance
 
 Brother Kedsen fidgeted, looking stopped up like a bottle of sparkling wine.
 
-"I was hoping to know what you thought," the Chancellor pressed.
+"I was hoping to know what you thought," the chancellor pressed.
 
 "Administrative problems," he mumbled. "The new king's court won't like their new clerical peer, Bishop Irthul, so he'll be gone before the month is out, and then..."
 
@@ -79,7 +79,7 @@ Kedsen rose to the question, finding a sudden boldness. "Without hesitating, sis
 
 "I can't ask those priests and lay people to... what? Go to war for us? Preposterous."
 
-"You *can*. They—we—invested you with that power. You swore to command. They swore to join you in Ae's mission. We tell Emault that this adventure was a monstrous mistake and that he should restore the Kingdom. He is enervated by the siege, surely. It won't even come to blows—he knows he'll have to come to the table."
+"You *can*. They—we—invested you with that power. You swore to command. They swore to join you in Ae's mission. We tell Emault that this adventure was a monstrous mistake and that he should restore the kingdom. He is enervated by the siege, surely. It won't even come to blows—he knows he'll have to come to the table."
 
 Pellywn leaned her elbows on the table and steepled her fingers. "You know as well as I do that if Tethraz's army couldn't deter him, a couple dozen scribes scribbling angry letters won't get him to recant his claim."
 
@@ -89,7 +89,7 @@ Pellywn leaned her elbows on the table and steepled her fingers. "You know as we
 
 Kedsen looked uncomfortable. "I feel like I have walked into a trap. Have you been leading me to this? Did you have this in mind before I walked in?"
 
-"No, brother. Your points on the justice of the matter are well merited and you have been persuasive. But I see no future where we can force Emault back from his new realm unless the Kings of East Arc or Anteianum suddenly develop an immense zeal for the matter to be resolved according to this justice. So, I propose a solution to resolve those truths.
+"No, brother. Your points on the justice of the matter are well merited and you have been persuasive. But I see no future where we can force Emault back from his new realm unless the kings of East Arc or Anteianum suddenly develop an immense zeal for the matter to be resolved according to this justice. So, I propose a solution to resolve those truths.
 
 "Besides, if Emault backs off from the legal claim, it severely weakens any justification he might have to meddle with the bishopric or the ecclesiastical circuiting."
 
@@ -103,7 +103,7 @@ Brother Kedsen shifted in his seat. "I hadn't considered... how can you say that
 
 "And with Uthora... well, he commands a lot of respect in the Hall, doesn't he?"
 
-"Yes. Think about it. If I can count on your support for this, the college can present a united front."
+"Yes. Think about it. If I can count on your support for this, the College can present a united front."
 
 "I will. Thank you, Chancellor."
 
@@ -121,7 +121,7 @@ She shook the stiffness out of her ankles and freed her wiry, silvering hair fro
 
 Sister Tethys, an apostle of the fourth degree, entered. Tethys was neither the seniormost Duranlachian apostle, nor the highest in academic attainment, nor the most beloved. But she was sufficiently senior, sufficiently credentialed, and sufficiently respected, and on top of it all, she possessed considerable personal charisma and unmatched political talent.
 
-She was the voice that the Chancellor needed.
+She was the voice that the chancellor needed.
 
 "Beca! It looks splendid."
 
@@ -147,7 +147,7 @@ Pellywn snorted. "If you say so. It might end up being my fault."
 
 "I do so ever like knowing things."
 
-"Well," Philla stroked her chin thoughtfully. "_Personally_ it isn't much of an object to me. My parents and sisters will pay their taxes to the Baron of Efschaz as usual, he'll pay the King's cut to a new king, and here I am here. Unless the new king is particularly sensitive about the loyalties of his far-flung subjects and calls me to court to take an oath. There was a king who did that in the early league days, you know."
+"Well," Philla stroked her chin thoughtfully. "_Personally_ it isn't much of an object to me. My parents and sisters will pay their taxes to the Baron of Efschaz as usual, he'll pay the king's cut to a new king, and here I am here. Unless the new king is particularly sensitive about the loyalties of his far-flung subjects and calls me to court to take an oath. There was a king who did that in the early league days, you know."
 
 Pellwyn laughed. "And look who can do even the most dreadfully boring records searches when it suddenly becomes very important."
 
@@ -179,15 +179,15 @@ Pellwyn leaned forward in her chair, resting her elbows on her knees. "Emault kn
 
 "I would _never_!" Philla giggled.
 
-"You would _never_, of course. At any rate, I'm prepared to recommend you to the Librarian as a secretary, or as a procurement director."
+"You would _never_, of course. At any rate, I'm prepared to recommend you to the librarian as a secretary, or as a procurement director."
 
 Philla's giggling strangled. "Procurement director? You want me out of here, don't you?"
 
-"No, Philla, think about it. The Librarian's office is the most prestigious in the Coll—"
+"No, Philla, think about it. The librarian's office is the most prestigious in the Coll—"
 
 "Second most prestigious."
 
-"No, the first. The voting body is the source of the College's prestige, which it confers directly upon the Librarian as an agent of the Word. The Chancellor is merely a functionary to the voting body."
+"No, the first. The voting body is the source of the College's prestige, which it confers directly upon the librarian as an agent of the Word. The chancellor is merely a functionary to the voting body."
 
 "You may believe that, but I don't."
 
@@ -199,7 +199,7 @@ Philla's giggling strangled. "Procurement director? You want me out of here, don
 
 "It doesn't sound particularly... commanding, Beca."
 
-"It's the surest way to the top. Half the Librarians in the last century came from the ranks of the secretaries to the Librarian. I know Librarianship sounds dreadful to you, but parley the position correctly and your peers will assume you're being groomed for it. Move laterally from there."
+"It's the surest way to the top. Half the librarians in the last century came from the ranks of the secretaries to the librarian. I know librarianship sounds dreadful to you, but parley the position correctly and your peers will assume you're being groomed for it. Move laterally from there."
 
 Philla tapped her finger on her cheek, calculating.
 
@@ -221,7 +221,7 @@ Chancellor Pellwyn and Tormen agonized over the draft of the letter for the enti
 
 > Your Grace, King Emault II of Orland
 >
-> The College is pleased to learn that the war between your throne and the throne of Duranlach has concluded and that the levies are being released to their harvest and their mourning of their comrades. Peace is becoming of Ae's realm, and we must honor the price paid for peace.
+> The College of Apostles is pleased to learn that the war between your throne and the throne of Duranlach has concluded and that the levies are being released to their harvest and their mourning of their comrades. Peace is becoming of Ae's realm, and we must honor the price paid for peace.
 >
 > We have received conflicting reports on the custody and disposition of the High King Tethraz and his son, and we hope that, whatever the circumstances may be, they are resolved swiftly and as amicably as is possible.
 >
@@ -229,7 +229,7 @@ Chancellor Pellwyn and Tormen agonized over the draft of the letter for the enti
 >
 > Yours in the Worship and the Word,
 
-All of the necessary points were laid out: a careful non-congratulation clothed in prim optimism, the "calling" (not "recalling") of the Chaplain attached to the old High King's court, and the sturdy deniability on the matter of the High King. Referring to the old High King as the High King was a risk; Pellwyn calculated that if Emault determined it to be a slight, the College could save face by claiming not to have known what legal proceedings Emault intended for the investiture of power. The invitation of King Emault's representatives was awkward and blunt, but they had run out of time.
+All of the necessary points were laid out: a careful non-congratulation clothed in prim optimism, the "calling" (not "recalling") of the chaplain attached to the old high king's court, and the sturdy deniability on the matter of the high king. Referring to the old high king as the high king was a risk; Pellwyn calculated that if Emault determined it to be a slight, the College could save face by claiming not to have known what legal proceedings Emault intended for the investiture of power. The invitation of King Emault's representatives was awkward and blunt, but they had run out of time.
 
 Pellwyn hoped to find herself writing this letter in her own hand and adding her signature to it later, but first, Sister Tethys would propose it herself, either during the second full session of the College's voting body or after a recess in the first session.
 
@@ -243,11 +243,11 @@ Pellwyn hoped to find herself writing this letter in her own hand and adding her
 
 Chancellor Pellwyn stood at the lectern on the floor between the two galleries of seated apostles. She lifted the gavel, and she brought it down.
 
-Every set of eyes snapped down to the floor, and the Chancellor called the College of Apostles into session.
+Every set of eyes snapped down to the floor, and the chancellor called the College of Apostles into session.
 
 Pellwyn had requested (practically begged) the parliamentarian to permit her to dispense with the usual prelude, which was a half hour or more of announcements and readings of report abstracts submitted by various committees. In the end, she had convinced the parliamentarian that he didn't want to have to deal with the nervy apostles debating theological politics with an extra hour of fatigue and frayed tempers. So tonight, she began with the main agenda: first, a reading of the purported letter from Tethraz and a dissemination of copies, and second, a series of submitted motions, each a proposal that the College react this way or that, each to be considered in turn.
 
-The first motion to follow the reading proved to be a strong start. Pellwyn recognized the first voting member on the agenda: a young Orlander, who stood quickly and belted out, "I move that the College issues a circular condemning King Emault II for initiating a conquest of obvious personal ambition, to the detriment of his subjects and other subjects in Ae's realm, and urging him to return Duranlach to a state of just rule under the High King's chosen heir."
+The first motion to follow the reading proved to be a strong start. Pellwyn recognized the first voting member on the agenda: a young Orlander, who stood quickly and belted out, "I move that the College issues a circular condemning King Emault II for initiating a conquest of obvious personal ambition, to the detriment of his subjects and other subjects in Ae's realm, and urging him to return Duranlach to a state of just rule under the high king's chosen heir."
 
 He had clearly been practicing that mouthful in the last hour, and the barreling momentum of his oratory seemed somehow comedic. The College thought so, anyway, and there was one audible chuckle and scattered low chatter in the Hall. Pellwyn thought to herself, hopefully, that the voting body was in the mood for a thoughtful debate.
 
@@ -315,7 +315,7 @@ Erefar sighed. "Fine. You can be evasive about that, but don't you dare mislead 
 
 Erefar established "Galvin's" good faith over the next several weeks, repeatedly inviting the cagey brother back to the back room of the hospital where Erefar gave his alms. There, they began by going over the evidence for Chancellor Beca Pellwyn's corruption and her evil intent.
 
-The corruption was easy. A careful examination of the College's records, particularly within the Chancellor's office, revealed a pattern of glossed over details, sketchy credentials, abridged processes, and missing justification documents. Each of these was deniable or traceable to some particular exigency, but taken together the pattern of patronage appointments was crystal clear. Pellwyn was treating the office of the Chancellor as a well of resources to be drawn on and allocated according to her whims, not as the sacred duty that it was.
+The corruption was easy. A careful examination of the College's records, particularly within the chancellor's office, revealed a pattern of glossed over details, sketchy credentials, abridged processes, and missing justification documents. Each of these was deniable or traceable to some particular exigency, but taken together the pattern of patronage appointments was crystal clear. Pellwyn was treating the office of the chancellor as a well of resources to be drawn on and allocated according to her whims, not as the sacred duty that it was.
 
 That was a worthy case for recall by the voting body but hardly rationale for a murder. But Galvin claimed to know that Pellwyn was going to forfeit the moral authority of the College for a political convenience.
 
@@ -323,7 +323,7 @@ To support this charge, he presented a letter, signed by the newly ousted High K
 
 "Why in the Worlds Above and Below would he ever write a letter like this?"
 
-"That was my thought, too," said Galvin. "It must be a forgery. But I have it on good word that she's been meeting with Brother Uthora, the senior member of the Orlander delegation. His younger sister-by-blood has a position as an undersecretary in her office; he's in her pocket. I think she means to give over the Duranlach parishes to the Orland circuit, and she's working through Brother Uthora to communicate this to the Chaplain and relevant Prelates. She wants to make this a _fait accompli_ before even..."
+"That was my thought, too," said Galvin. "It must be a forgery. But I have it on good word that she's been meeting with Brother Uthora, the senior member of the Orlander delegation. His younger sister-by-blood has a position as an undersecretary in her office; he's in her pocket. I think she means to give over the Duranlach parishes to the Orland circuit, and she's working through Brother Uthora to communicate this to the chaplain and relevant prelates. She wants to make this a _fait accompli_ before even..."
 
 "Hold on, Galvin. That is a great deal of supposition for a forged letter and a single meeting."
 
@@ -337,17 +337,17 @@ Erefar let that sink in for a moment, before replying, "And why shouldn't I know
 
 ---
 
-It had been several years since Erefar had walked the halls of the College, something he had last done at the request of the College itself. Erefar gave alms through his skilled ministrations at the great hospital at Anteianum. While the hospital was formally administered by the Kingdom of Anteianum, its proximity to the College meant that it was augmented by a great deal of priestly talent from the College. A lay practitioner whose knowledge of Ae's healing arts rivaled even the priests had aroused enough interest, and perhaps suspicion, to have him summoned to the College to explain himself.
+It had been several years since Erefar had walked the halls of the College, something he had last done at the request of the College itself. Erefar gave alms through his skilled ministrations at the great hospital at Anteianum. While the hospital was formally administered by the King of Anteianum, its proximity to the College meant that it was augmented by a great deal of priestly talent from the College. A lay practitioner whose knowledge of Ae's healing arts rivaled even the priests had aroused enough interest, and perhaps suspicion, to have him summoned to the College to explain himself.
 
 He had found himself welcome then, his skills determined to be genuine and his character unimpeachable. But now he was an interloper.
 
-The College, as an institution purporting to uphold the Word of the Goddess of Knowledge, prided itself on keeping no secrets. That wasn't true in the strictest possible sense: the College deliberated business "within the house" frequently, and even if the conclusions drawn and actions taken were transparent and public, the "inner thoughts" of the body of Apostles were not always made plain to the world. But the ethos was real, and what it meant now was that Erefar's mission of infiltration was trivial. All he had to do was arrive at one of the many public libraries, and from there, skulk his way down a hall or two to arrive at the residences, where he stole a robe and passed himself off as Brother Pyth (nobody had asked his name and nobody was likely to, but an alias was a comfort all the same).
+The College, as an institution purporting to uphold the Word of the Goddess of Knowledge, prided itself on keeping no secrets. That wasn't true in the strictest possible sense: the College deliberated business "within the house" frequently, and even if the conclusions drawn and actions taken were transparent and public, the "inner thoughts" of the body of apostles were not always made plain to the world. But the ethos was real, and what it meant now was that Erefar's mission of infiltration was trivial. All he had to do was arrive at one of the many public libraries, and from there, skulk his way down a hall or two to arrive at the residences, where he stole a robe and passed himself off as Brother Pyth (nobody had asked his name and nobody was likely to, but an alias was a comfort all the same).
 
 He found Brother Uthora in prayer in his chambers, small and unadorned, with the door open to the hall. He loitered for only a moment. He circled around, slowly, being sure to spend some time in empty chambers and side halls to lessen the chance that he passed the same person twice in these tight, stuffy hallways.
 
 This went on for hours. Brother Uthora left for a brief lunch in the refectory, then to a series of meetings on some obscure effort of scholarship he was contributing to, and then to afternoon study. All the while, Erefar maintained the strenuous discipline of not being noticed.
 
-Uthora was beginning to look like a bust until late in the evening. As the orange slowly drained from the evening sky, he gathered with several of his peers directly in the middle of one of the college's many cloisters, far from the galleries of passerby and eavesdroppers. But Erefar had long ago mastered the art of hearing, and he could make out enough of the ensuing argument from the anonymous distance of the galleries.
+Uthora was beginning to look like a bust until late in the evening. As the orange slowly drained from the evening sky, he gathered with several of his peers directly in the middle of one of the College's many cloisters, far from the galleries of passerby and eavesdroppers. But Erefar had long ago mastered the art of hearing, and he could make out enough of the ensuing argument from the anonymous distance of the galleries.
 
 "... proposal before the voting body," Brother Uthora was saying.
 
@@ -405,13 +405,13 @@ Galvin had fidgeted irritably at that. "You know what the College is like. The s
 
 Today's excursion in the College had borne that out. Not once had Erefar seen anyone follow Pellwyn from place to place, and no sentinels stood watch within or without the rooms she occupied. The closest thing she had to a retinue was her secretary, a bright young Orlander who attended and took the minutes of nearly all of the meetings in her office. Young and healthy though he was, he did not look especially capable of great feats of violence. Indeed, not one of the Brothers or Sisters Erefar saw wore any weapons more dangerous than a whittling knife. This was one of those strictures Galvin had mentioned, apparently.
 
-Erefar remembered how had once been summoned here to prove his good faith before the Apostles. What would they have done had Erefar turned truculent, he wondered?
+Erefar remembered how had once been summoned here to prove his good faith before the apostles. What would they have done had Erefar turned truculent, he wondered?
 
 Brother Chin-Lo concluded his sermon, and the crowd of robed bodies began to rise and fill the lecture hall with the shuffle of papers, the thumping of feet on the risers, and the chatter of stimulated disciples.
 
 Pellwyn exchanged a few words with Chin-Lo and left. Erefar, a few minutes later, descended from the risers and followed.
 
-Bodyguard or no, he had to remain discreet: it would not do for an alert bystander to notice someone following the Chancellor. Erefar made a point to circle outside through the nearest cloister, taking in the fresh fall wind, the beautiful alpine-scented air that was, Erefar thought, one of Anteianum's greatest treasures. He wished he could linger in the morning sun for hours. Several young scholars were sharing lunch on the grass even now.
+Bodyguard or no, he had to remain discreet: it would not do for an alert bystander to notice someone following the chancellor. Erefar made a point to circle outside through the nearest cloister, taking in the fresh fall wind, the beautiful alpine-scented air that was, Erefar thought, one of Anteianum's greatest treasures. He wished he could linger in the morning sun for hours. Several young scholars were sharing lunch on the grass even now.
 
 But duty called, and Erefar withdrew to the halls.
 
@@ -421,7 +421,7 @@ He retraced his steps to the lecture hall and, from its closed door, turned left
 
 Erefar had turned the corner directly into Chancellor Pellwyn. He had nearly collided with her, in fact. His mind snapped to his persona.
 
-"Yes, Sister. Brother Pyth. I was hoping to find Brother Chin-Lo; I had a question."
+"Yes, sister. Brother Pyth. I was hoping to find Brother Chin-Lo; I had a question."
 
 "Ah. I'm afraid I don't know his schedule. You may try his residence; it's in the north hall."
 
@@ -439,7 +439,7 @@ Erefar smiled slyly. "That was not a very direct answer, sister."
 
 "I don't follow."
 
-"High Bishop Thanalan was a talented individual whose College survived several concurrent crises. The College hierarchy he instituted is now preserved in the Word. But that was over a millennium ago. Anteianum barely even speaks the same language it did in those days.
+"Put another way: High Bishop Thanalan was a talented individual whose College survived several concurrent crises. The College hierarchy he instituted is now preserved in the Word. But that was over a millennium ago. Anteianum barely even speaks the same language it did in those days.
 
 "Holiest Man in Old Anteianum or not, why should I think he knows better how to manage today's College than I?"
 
@@ -459,13 +459,13 @@ Erefar doubled back to the library. The door opened with an excruciating creak, 
 
 "Good afternoon, brother."
 
-"Good afternoon. Has sister Pellwyn passed by recently?"
+"Good afternoon. Has Sister Pellwyn passed by recently?"
 
 "Why... well, yes, as it happens."
 
-It was painfully obvious to Erefar's trained eye: this man had something to hide and had considered lying just now. Such were the benefits of going undercover in institutions like this one: no one was capable of handling a competent spy.
+It was painfully obvious to Erefar's trained eye: this man had something to hide and had considered lying just now. Such were the benefits of going undercover in institutions like this one: no one was prepared to handle a competent spy.
 
-"I thought so. Shame I missed her, I was trying to borrow a book from her. Do you think she left it here?"
+"I thought so. Shame I missed her; I was trying to borrow a book from her. Do you think she left it here?"
 
 "No, I don't think so...." 
 
@@ -489,7 +489,7 @@ The librarian stammered out another nonsensical lie, which was all Erefar could 
 
 Galvin crossed his arms and shook his head. "Nothing. I've been looking. All of these meetings happen so quickly and I can't forsake my own duties just to go snooping in on my colleagues who may or may not be doing anything untoward."
 
-"I understand. And I agree that something is wrong at the College. But what? What has she done that the Lightbringer should forgive my bloody hands for righting?"
+"I understand. And I agree that something is wrong at the College. But what? What has she done that the Lightbringer should forgive our bloody hands for righting?"
 
 Galvin threw his hands up. "Bah."
 
@@ -509,11 +509,11 @@ Brother Stefan had reacted predictably to Erefar's insinuations that he would st
 
 And so he tipped his hand to Erefar that he was not acting alone. He had four associates. All were young, brightly glazed with achievement and love of their craft. Passionate scholars, then, with an affinity for theory. In this case, Erefar supposed, moral theory.
 
-Their discussion today, taking place in Stefan's own chamber over bread and tea, focused on a very physical, immediate sort of arrangement, however. They supposed that the Chancellor might die at the lectern during the voting session. How might they ensure that _justice_ was carried out, and not just a random act of violence? Their plan seemed to be to assume that some sort of recess would follow the stroke of death and that they would need to take advantage of it. Stefan would watch for the event and signal the four so as to better be prepared for the outbreak of chaos. Two of them would abscond to the Chancellor's office, scavenging for useful bits of evidence and inventing excuses as necessary. One would remain with Stefan to help in case the panic in the Hall gave way to some sort of malleable, or at least challengeable mood.
+Their discussion today, taking place in Stefan's own chamber over bread and tea, focused on a very physical, immediate sort of arrangement, however. They supposed that the chancellor might die at the lectern during the voting session. How might they ensure that _justice_ was carried out, and not just a random act of violence? Their plan seemed to be to assume that some sort of recess would follow the stroke of death and that they would need to take advantage of it. Stefan would watch for the event and signal the four so as to better be prepared for the outbreak of chaos. Two of them would abscond to the chancellor's office, scavenging for useful bits of evidence and inventing excuses as necessary. One would remain with Stefan to help in case the panic in the Hall gave way to some sort of malleable, or at least challengeable mood.
 
-Erefar considered this himself. Their plan was as fine a plan as a few junior members could be expected to produce, but he doubted it would have great effect. They needed his help. Fortunately, he knew how to provide it.
+Erefar considered this himself. Their plan was as fine a plan as a few young conspirators could be expected to produce, but he doubted it would have great effect. They needed his help. Fortunately, he knew how to provide it.
 
-After that, they meandered down what seemed like much more well-worn grooves of thought. How could they best clean house? None of them had the tenure or résumé to compete for any high offices, but they all agreed that they had to lever all of the meager power and authority they could muster anyway. Sister Liliana suggested that they lean on the Treasurer to exceed their normal mandate (which was to aid in the continuity between Chancellors) and to do a thorough accounting of the Chancellor's office and uncover the stains of corruption within the office. All of them agreed that the Treasurer had thus far been too competent to be a crony himself. Brother Stefan also reminded the group that the Librarian's office would be particularly important, and they should be surreptitiously priming any contacts they had there.
+After that, they meandered down what seemed like much more well-worn grooves of thought. How could they best clean house? None of them had the tenure or résumé to compete for any high offices, but they all agreed that they had to lever all of the meager power and authority they could muster anyway. Sister Liliana suggested that they lean on the treasurer to exceed his normal mandate (which was to aid in the continuity between chancellors) and to do a thorough accounting of the chancellor's office and uncover the stains of corruption within. All of them agreed that the treasurer had thus far been too competent to be a crony himself. Brother Stefan also reminded the group that the librarian's office would be particularly important, and they should be surreptitiously priming any contacts they had there.
 
 One by one, they filed out, until Brother Stefan was alone. Erefar raised his hood and left the adjacent cell, impressed with the convictions of his solicitor but not yet in possession of the surety he sought.
 
@@ -525,7 +525,7 @@ The halls were empty, the voting members having left the chambers to fill the ga
 
 Until he ran into Erefar.
 
-When Tormen turned the corner, he found himself face-to-face with a stranger wearing the robes of an Apostle. He wore no stole and his face was unfamiliar, so there was no placing him. Except for the halo of light that surrounded his body. Joy, love, and faith shone in the air and bound his figure to the firmament, holding it forth for Tormen's eyes.
+When Tormen turned the corner, he found himself face-to-face with a stranger wearing the robes of an apostle. He wore no stole and his face was unfamiliar, so there was no placing him. Except for the halo of light that surrounded his body. Joy, love, and faith shone in the air and bound his figure to the firmament, holding it forth for Tormen's eyes.
 
 For a moment, Tormen was sure he had encountered an angel in the halls of the College.
 
@@ -559,7 +559,7 @@ After a moment more of hesitation, Tormen handed over the letter.
 
 Erefar examined the letter and was convinced.
 
-It lurked between the lines, but it was plain to a careful observer: the Chancellor's preferred solution was a dithering legalistic negotiation with the conquering army. There was no denying the fact that the College would stand aside while armies ransacked villages, butchered levied sons, and besieged starving cities, from this point forevermore.
+It lurked between the lines, but it was plain to a careful observer: the chancellor's preferred solution was a dithering legalistic negotiation with the conquering army. There was no denying the fact that the College would stand aside while armies ransacked villages, butchered levied sons, and besieged starving cities, from this point forevermore.
 
 And then there was the skulduggery at the edges. Why Sister Tethys? Erefar was sure that if he followed up on that he would find an unbecoming appointment or a discreet exchange of value.
 
@@ -571,9 +571,9 @@ From here he observed the proceedings for a moment, hoping merely to learn the l
 
 Erefar considered returning to the ground and walking through the front door. No physical protection was present for the target, besides dozens of apostles—mostly scholars by trade and by temperament, distracted by argument and not ready for sudden physical violence. But as the acrimony in the chamber rose in volume, Erefar realized that it would be a simple thing to break this window before him and sneak out onto the beams. So he did. Within moments, he was perched in the darkness within the crown of the high-vaulted Hall of the League.
 
-Now? Now was the time. It was a risk, but Erefar was a holy man. Tormen did not deny it, and neither could the rest of the apostles. He would strike a blow for justice here, and hopefully, with the help of Brother Stefan and his compatriates, the rest of the Apostles would see and act on the truth.
+Now was the time. It was a risk, but Erefar was a holy man. Tormen did not deny it, and neither could the rest of the apostles. He would strike a blow for justice here, and hopefully, with the help of Brother Stefan and his compatriates, the rest of the apostles would see and act on the truth.
 
-He padded across the beam above the Chancellor, retrieved the steel he had brought for this task, and set his feet for the leap.  
+He padded across the beam above the chancellor, retrieved the steel he had brought for this task, and set his feet for the leap.  
 
 # Chapter III: The Shadow
 
@@ -585,23 +585,23 @@ The first oath of the Order of the Owl was a paradox.
 
 The nervous candidates repeated the Chancellor's recitation, sentence by sentence. They all had known, one way or another, that they had chosen to undertake a long term of training in the hopes of graduating to some sort of severe and permanent dedication of service to Ae, the Lightbringer. Most of them hung on every word of the oath, hoping to find in one of them a clue to the secret duties that awaited them.
 
-All of them noticed the first paradox: most of the elements of the oath were only in effect until they were discharged, which made for a strangely toothless oath. Only a few took note that the oath to secrecy was set apart and could not be rescinded by a mere discharge. None noticed, that afternoon, that the oath to secrecy was intentionally worded to carry on after their death.
+All of them noticed the first paradox: most of the elements of the oath were only in effect until they were discharged, which made for a strangely toothless oath. A few took note that the oath to secrecy was set apart and could not be rescinded by a mere discharge. None noticed, that afternoon, that the oath to secrecy was intentionally worded to carry on after their death.
 
 ---
 
-The candidates needn't have pried apart the wording of the oath too much, for their formal training began the next morning—after an evening of being shown to their cells and taking mess with the Knights and their fellow candidates in the refectory—with an introduction to the purpose of the Order of the Owl. Knight-Prior Yorven explained, pacing solemnly before the arcade, that, 325 years ago, a particularly shrewd Chancellor of the Apostles has been summoned to a tense negotation with a Veldic Lord who sought to be crowned emperor. The Chancellor in question, suspecing treachery, organized a personal bodyguard to accompany him. Presenting themselves as unassuming robed monks, the bodyguards foiled a kidnapping attempt by the lord's retinue. The next Chancellor sought a continuation of the practice at their first session of the College, and the Apostles found themselves in a bind. They couldn't bring themselves to deny the Chancellor the aegis that his duties evidently warranted, but the military and hierarchic implications were unseemly. The charismatic leader of the anti-bodyguard faction moved to bring the matter before Ae herself, who cut the knot by creating a knightly order bound to herself: the Order of the Owl.
+The candidates needn't have pried apart the wording of the oath too much, for their formal training began the next morning—after an evening of being shown to their cells and taking mess with the knights and their fellow candidates in the refectory—with an introduction to the purpose of the Order of the Owl. Knight-Prior Yorven explained, pacing solemnly before the arcade, that, 325 years ago, a particularly shrewd Chancellor of the Apostles has been summoned to a tense negotation with a Veldic lord who sought to be crowned emperor. The chancellor in question, suspecing treachery, organized a personal bodyguard to accompany him. Presenting themselves as unassuming robed monks, the bodyguards foiled a kidnapping attempt by the lord's retinue. The next chancellor sought a continuation of the practice at their first session of the College, and the apostles found themselves in a bind. They couldn't bring themselves to deny the chancellor the aegis that his duties evidently warranted, but the military and hierarchic implications were unseemly. The charismatic leader of the anti-bodyguard faction moved to bring the matter before Ae herself, who cut the knot by creating a knightly order bound to herself: the Order of the Owl.
 
-"You were wise to consider this carefully, even reluctantly," Ae had said to the gathered Apostles. "All mortals and institutions are corruptible. But properly carried through, an institution sworn directly to my Word and placed at the College's disposal should prove more resistant to that corruption. Use it well."
+"You were wise to consider this carefully, even reluctantly," Ae had said to the gathered apostles. "All mortals and institutions are corruptible. But properly carried through, an institution sworn directly to my Word and placed at the College's disposal should prove more resistant to that corruption. Use it well."
 
-The Order's portfolio had inevitably grown. Yorven turned to stand square to his disciples, and explained: "any time the success of a College endeavor is in doubt, we may be called upon to dispel those doubts. We shield its agents from violence. We aid in the protection of the vulnerable. We augment the arcane knowledge of the Apostles. We join their songs and we speed the spread of our Word." He paused for effect. "What this means is that we do not fail. Every hour of your day is now dedicated to the College's success. Your allegiance is to the Lightbringer, and She commands you to protect this College. You will train relentlessly. You will eat and rest as it befits our success. If you doubt your ability to do this, it is to no shame. We need sharp swords, but the world needs strong hammers just as dearly. Think on it. Speak to myself or Knight-Prior Ella if you wish to be relieved of service."
+The Order's portfolio had inevitably grown. Yorven turned to stand square to his disciples, and explained: "any time the success of a College endeavor is in doubt, we may be called upon to dispel those doubts. We shield its agents from violence. We aid in the protection of the vulnerable. We augment the arcane knowledge of the apostles. We join their songs and we speed the spread of our Word." He paused for effect. "What this means is that we do not fail. Every hour of your day is now dedicated to the College's success. Your allegiance is to the Lightbringer, and She commands you to protect this College. You will train relentlessly. You will eat and rest as it befits our success. If you doubt your ability to do this, it is to no shame. This order needs sharp swords, but the world needs strong hammers just as dearly. Think on it. Speak to myself or Knight-Prior Ella if you wish to be relieved of service."
 
-Nasira distinguished herself from her peers quickly. Six of the dozen candidates resigned—to no shame—after reflecting on the personal ambitions they had, of which the Order explicitly or implicitly forbid pursuit. One broke his leg in equestrian training and was instructed to return to training, if he wished, in two years' time. Of the remaining five, only Nasira and Pyvin had the Talent for magic, and Nasira was a much quicker study. Pyvin was capable of terrifying feats of pyromancy: Nasira had overheard two of the Knights whispering, once, about how they were glad Pyvin had remained in the training, for he could be a great menace if unbonded in the world. But he came by subtler uses of his Talent only slowly and with great time and attention paid.
+Nasira distinguished herself from her peers quickly. Six of the dozen candidates resigned—to no shame—after reflecting on the personal ambitions they had, of which the Order explicitly or implicitly forbid pursuit. One broke his leg in equestrian training and was instructed to return to training, if he wished, in two years' time. Of the remaining five, only Nasira and Pyvin had the Talent for magic, and Nasira was a much quicker study. Pyvin was capable of terrifying feats of pyromancy: Nasira had overheard two of the knights whispering, once, about how they were glad Pyvin had remained in the training, for he could be a great menace if unbonded in the world. But he came by subtler uses of his Talent only slowly and with great time and attention paid.
 
 That was how Nasira was accorded a great honor afforded to only three students in the history of the Order.
 
 ---
 
-Sweat trickled down her forehead and the back of Nasira's neck with the final surge and ebb in her soul. Knight-Abbot Way had performed an unusual gambit, offering a thrust of the sword as a feint to obscure a merciless assault on her will. The sharp edge of his Talent crashed down against her own. Nasira was tired, but not too tired to stand her ground and resist it. Her focus held. His withdrew.
+Sweat trickled down her forehead and the back of Nasira's neck with the final surge and ebb in her soul. Knight-Abbot Way had performed an unusual gambit, offering a thrust of the sword as a feint to obscure a merciless assault on her will. The sharp edge of his Talent crashed forth against her own. Nasira was tired, but not too tired to stand her ground and resist it. Her focus held. His withdrew.
 
 To the class's surprise, Way fell to his knees, breathing hard.
 
@@ -609,7 +609,7 @@ To the class's surprise, Way fell to his knees, breathing hard.
 
 He wrestled himself to his feet and gave a salute appropriate to the end of the exercise before collapsing again.
 
-"Abbot, sir, are you all right?" candidate Othall asked from the edge of the circle.
+"Abbot, sir, are you all right?" Candidate Othall asked from the edge of the circle.
 
 "Ha. Yes," Way managed to wheeze out. "Give me a second."
 
@@ -647,11 +647,11 @@ Nasira froze. And then she thought. Stammering never did anyone any good, Prior 
 
 "Yes, sir."
 
-"Good. I'll write the Apostles and recommend you."
+"Good. I'll write the apostles and recommend you."
 
 ---
 
-Ae's chapel was smaller than the grand chapel but no less impressive. It was arranged more like a throne room, with pew-like galleries stretching down the flanks and a dais set before three soaring stained glass windows. The windows radiated in the morning sun and the whole chapel was awash in their golden-orange light. No throne topped the dais. Ae sat cross-legged upon the bare marble, wearing a pure white himation edged with crimson red. Her iconic crested helm and spear rested aside, leaning against the wall between two of the stained glass windows.
+Ae's chapel was smaller than the grand chapel but no less impressive. It was arranged more like a throne room, with pew-like galleries stretching down the flanks and a dais set before three soaring stained glass windows. The windows radiated in the morning sun and the whole chapel was awash in their golden-orange light. No throne topped the dais. Ae sat cross-legged upon the bare marble, wearing a pure white himation edged with royal blue. Her iconic crested helm and spear rested aside, leaning against the wall between two of the stained glass windows.
 
 Nasira was surprised—though as she thought about it, she supposed she shouldn't have been—to note that Ae's voice was plain, serene, and unadorned, like a clear lake on a calm day.
 
@@ -685,15 +685,15 @@ Nashira's anger began to twist into panic. It must have been obvious, because Ae
 
 Nasira, though confused and in unfamiliar territory, realized that at least she should stand down. She began to uncoil her will, sinking gently into one of the many breathing exercises she had learned in the last year. She, again, broke the silence.
 
-"I should like to ask more, then, holy mother."
+"I should like to ask more, then, Holy Mother."
 
-"Good. I would be disappointed in a Knight-Candidate who should not. First, however, I wish to know more of your past. Abbot Way informed me, accurately, of your gifts and your discipline, but not of who you are beneath them."
+"Good. I would be disappointed in a knight-candidate who should not. First, however, I wish to know more of your past. Abbot Way informed me, accurately, of your gifts and your discipline, but not of who you are beneath them."
 
 "Yes, holy mother. I am from the Hyng, from a town on the north end of the west shore. For a girl with Talent, I was fortunate to be surrounded by people who showed me great kindness. I was allowed to dabble in it, even to develop it. My family were businesslike folk with the ability to provide for tutors and education for anything I showed an affinity for. Which was a lot of things. It was my Talent I was most interested in, of course."
 
 Ae listened.
 
-"That drew the attention of Westsea Chief Boin. His rule over his domain is... firm, and his affinity for strong warriors is well known. We weren't sure, but we thought he would conscript me. His Honor Guard would be a prestigious summons, of course, but Boin is... a greedy man, and a bully. I had distaste for him. My parents did, too."
+"That drew the attention of Westsea Chief Boin. His rule over his domain is... firm, and his affinity for strong warriors is well known. We weren't sure, but we thought he would conscript me. His honor guard would be a prestigious summons, of course, but Boin is... a greedy man, and a bully. I had distaste for him. My parents did, too."
 
 Ae continued to listen.
 
@@ -735,7 +735,7 @@ Despite her spear and helm being several yards over a moment ago, she rose with 
 
 ---
 
-The final oath was administered at midnight. One by one, the torches were extinguised. The only remaining light source in the grand chapel was a brazier burning behind Chancellor Pellwyn. The Chancellor and her lectern cast a long shadow across the five candidates.
+The final oath was administered at midnight. One by one, the torches were extinguised. The only remaining light source in the grand chapel was a brazier burning behind Chancellor Pellwyn. The chancellor and her lectern cast a long shadow across the five candidates.
 
 *My allegiance belongs to the Lightbringer alone. I shall bear no offspring. I shall hold no estate. I shall swear fealty to no other. My labors are for the Lightbringer and her people. My life is for the Lightbringer and her people. These, I swear until I am given to the First of the Dead. I swear to the secrecy of these bonds forevermore.*
 
@@ -743,15 +743,15 @@ The new Knights spoke to each other and their new peers, exchanged thanks and co
 
 ---
 
-Nasira had first encountered Chancellor Pellwyn on the night of final oath, but her introduction to the Chancellor was some months later. It was a stiflingly hot summer day at the College. The only reprieve to be found was in walking the long, shady arcades, allowing the steady highland breeze to take the edge off of the heat.
+Nasira had first encountered Chancellor Pellwyn on the night of final oath, but her introduction to the chancellor was some months later. It was a stiflingly hot summer day at the College. The only reprieve to be found was in walking the long, shady arcades, allowing the steady highland breeze to take the edge off of the heat.
 
-That is not what Chancellor Pellwyn was doing. Instead, she was to be found pent up in her office, receiving appointment after appointment from the Librarian, the apostles, and a succession of petitioners. All of them were concerned with one thing: the kidnapping of lay brother Fevlan off the coast of East Arc. Fevlan had been aboard the *Temerity*, a merchant cog returning from the north, when it had been captured by pirates. The pirates had contrived to deliver a note of ransom to Gelfan's Landing, and the numerous parties to the ransom note had immediately begun fighting over what to do and how to do it. As was often the case, it fell on the College to coordinate and provide formal channels for the vicious bickering.
+That is not what Chancellor Pellwyn was doing. Instead, she was to be found pent up in her office, receiving appointment after appointment from the Librarian, the apostles, and a succession of petitioners. All of them were concerned with one thing: the kidnapping of Lay Brother Fevlan off the coast of East Arc. Fevlan had been aboard the *Temerity*, a merchant cog returning from the north, when it had been captured by pirates. The pirates had contrived to deliver a note of ransom to Gelfan's Landing, and the numerous parties to the ransom note had immediately begun fighting over what to do and how to do it. As was often the case, it fell on the College to coordinate and provide formal channels for the vicious bickering.
 
-This was Nasira's first shift as the Chancellor's Shadow. At four minutes to noon, dressed in loose-fitting summer robe befitting the station of an Apostle's aide, she disappeared from her cell, having rendered herself invisible to the human eye using one of the Order's many arcane techniques. She walked the small, empty back halls of the College and passed through the back wall of the Chancellor's office (another of the secrets of the Order) as the bells tolled noon. She exchanged a salute with Knight Frey, felt rather than seen, and assumed a post behind the Chancellor, opposite the office door.
+This was Nasira's first shift as the chancellor's shadow. At four minutes to noon, dressed in loose-fitting summer robe befitting the station of an apostle's aide, she disappeared from her cell, having rendered herself invisible to the human eye using one of the Order's many arcane techniques. She walked the small, empty back halls of the College and passed through the back wall of the chancellor's office (another of the secrets of the Order) as the bells tolled noon. She exchanged a salute with Knight Frey, felt rather than seen, and assumed a post behind the chancellor, opposite the office door.
 
-Strictly speaking, the Order of the Owl was not a secret to the Apostles, and all of them would be aware that the Chancellor was being guarded as such. But the lay petitioners and backwater priests that made their way through that office that day would never have known of Nasira's watch.
+Strictly speaking, the Order of the Owl was not a secret to the apostles, and all of them would be aware that the chancellor was being guarded as such. But the lay petitioners and backwater priests that made their way through that office that day would never have known of Nasira's watch.
 
-Nasira watched and listened as visitor after visitor offered their perspectives, grievances, complaints, accusations, and outrage to the Chancellor. None were of any real threat to the Chancellor: their quarrels were mostly with counterparties for whom Pellwyn was serving as an intermediary, and any who persisted in their belligerence would inevitably relent in the face of Pellwyn's absolute determination. Besides assessing each new visitor for their demeanor, attire, and physical attributes, Nasira's duties compelled no action. She spent most of the afternoon listening as Pellwyn received her visitors' mounting anxieties and reiterated her position: King Renault of East Arc had given authority over the rescue over to his kingdom's Body of Merchants (a quarrelsome, power-hungry voting assembly), and the College would be participating as a claimant. Unfortunately, this meant that the College could not participate as a consultant, a detail that was cause for great debate arguments between Pellwyn and her fellow Apostles but was not even brought up with the lay petitioners.
+Nasira watched and listened as visitor after visitor offered their perspectives, grievances, complaints, accusations, and outrage to the chancellor. None were of any real threat to the chancellor: their quarrels were mostly with counterparties for whom Pellwyn was serving as an intermediary, and any who persisted in their belligerence would inevitably relent in the face of Pellwyn's absolute determination. Besides assessing each new visitor for their demeanor, attire, and physical attributes, Nasira's duties compelled no action. She spent most of the afternoon listening as Pellwyn received her visitors' mounting anxieties and reiterated her position: King Renault of East Arc had given authority over the rescue over to his kingdom's Body of Merchants (a quarrelsome, power-hungry voting assembly), and the College would be participating as a claimant. Unfortunately, this meant that the College could not participate as a consultant, a detail that was cause for great debate arguments between Pellwyn and her fellow apostles but was not even brought up with the lay petitioners.
 
 After shooing a merchant (owed money by the *Temerity's* owners) from her office, Pellwyn stood to seek a late, late dinner in the refectory. Nasira followed, unseen and unheard until the two were alone in transit.
 
@@ -765,11 +765,11 @@ Pellwyn pulled up to a halt. "Yes. Your first year, correct?"
 
 "Yes, Chancellor. I find it unlikely that the courtier from East Arc was telling the truth. The geography of the northeast shore is plenty accommodating for pirate harbors, and the King's navy is not nearly large enough to have scoured it."
 
-Pellwyn thought about this for a moment. "So he's likely been lied to and is accidentally passing on the falsehood to us. At any rate, if the pirates *are* holding the *Temerity* in East Arc, then, it becomes a problem for the King right away, and the Body will be out of everyone's way."
+Pellwyn thought about this for a moment. "So he's likely been lied to and is accidentally passing on the falsehood to us. At any rate, if the pirates *are* holding the *Temerity* in East Arc, then, it becomes a problem for the king right away, and the Body will be out of everyone's way."
 
 "Yes. We could send a Knight of the Owl to search the likely locations, Chancellor."
 
-Pellwyn shook her head. "Hmm. No. Besides the woefully small number of Knights available to us, it's too risky. If the Body catches wind of someone trying to do something about this without their leave, it'll be six *more* months before anything can get done and Fevlan is as good as dead. If he hasn't turned pirate himself already. Wouldn't blame him."
+Pellwyn shook her head. "Hmm. No. Besides the woefully small number of knights available to us, it's too risky. If the Body catches wind of someone trying to do something about this without their leave, it'll be six *more* months before anything can get done and Fevlan is as good as dead. If he hasn't turned pirate himself already. Wouldn't blame him."
 
 Nasira protested. "The Order would do it, and it is very good at secrecy."
 
@@ -791,7 +791,7 @@ And then all was silent. She had reached the very threshhold of the act, but Nas
 
 "Rest, Knight Nasira."
 
-Nasira resisted the urge to collapse, and instead she sat, trembling, amidst the wreckage of the library, in a manner befitting her dignity as a Knight of the Order of the Owl. She breathed, simply and with intent, until she no longer shook with the effort.
+Nasira resisted the urge to collapse, and instead she sat, trembling, amidst the wreckage of the library, in a manner befitting her dignity as a knight of the Order of the Owl. She breathed, simply and with intent, until she no longer shook with the effort.
 
 "I failed to summon enough will. The exertion is near my limit but not in excess. If I can memorize the patterns more deeply I may have more focus to spare and succeed."
 
@@ -805,11 +805,11 @@ Every time Nasira trained with the Lightbringer, they would end with an exercise
 
 Nasira remained still, thinking. It was an unusual question, and it wasn't often that the goddess addressed her without her title. Was that a message? She took extra time to be sure of the rightness of her answer.
 
-"None precluded by my oath of fealty, holy mother."
+"None precluded by my oath of fealty, Holy Mother."
 
 "I see. You see how unusual that is, I should think."
 
-"Yes, holy mother. The world is full of stories of hubris. Hubris is an easy trap to fall into when one has means to feed it."
+"Yes, Holy Mother. The world is full of stories of hubris. Hubris is an easy trap to fall into when one has means to feed it."
 
 Ae chuckled. Nasira had always thought Ae's sly, sure laugh was somehow incongruous with her divine grace. "And hubris is the only reason one might have ambitions?"
 
@@ -829,29 +829,29 @@ Ae listened as Nasira thought.
 
 "Yes, you did. But we are not fools, are we? Boredom and frustration are dangerous poisons to the body, mind, and soul, and you cannot simply wish them away."
 
-"I *will not* break my oath, holy mother." Nasira didn't know what else to say.
+"I *will not* break my oath, Holy Mother." Nasira didn't know what else to say.
 
 "Think, Knight Nasira. Your resolve—or stubbornness, as it were—is formidable and appreciated. But think on it. The time may come. It seems inevitable that a woman of such singular skill will feel the need to turn her back on service and duty to leave her mark on the world. I hope that by our efforts we can avoid that."
 
-"I will think on it, holy mother."
+"I will think on it, Holy Mother."
 
 ---
 
 Summer and fall passed by. Fevlan *had* gone pirate and had gotten captured alongside the crew that kidnapped him during a botched raid on a nameless seaside hamlet on the north shore. The Body of Merchants was relieved of its duty, and Fevlan was granted clemency by King Renault at the request of Chancellor Pellwyn. His execution was commuted and he would, instead, spend 10 years laboring for the army of East Arc.
 
-A new obsession gripped the petitioners to the Chancellor's office and the College at large and the rest of the Seven Kingdoms besides. The Seven Kingdoms had become Six.
+A new obsession gripped the petitioners to the chancellor's office and the College at large and the rest of the Seven Kingdoms besides. The Seven Kingdoms had become Six.
 
-King Emault II had forced High King Tethraz's surrender after months of siege, and very little could have shaken the College so. Emault's *casus belli* was dubious, at best, and his claim to rule over the conquered realm of Duranlach was taken seriously by vanishingly few people outside of Orland, where it was nearly as good as the Word itself.
+King Emault II had forced High King Tethraz's surrender after months of siege, and very little could have shaken the College so. Emault's *casus belli* was dubious, at best, and his claim to rule over the conquered realm of Duranlach was taken seriously by vanishingly few people outside of Orland. There, however, it was nearly as good as the Word itself.
 
-Ae had informed the Chancellor that her position on worldly governance had not changed: the moral edification of the people of the Seven Kingdoms was the most deserving target of her own efforts, not insistence on the personages of their kings and queens.
+Ae had informed the chancellor that her position on worldly governance had not changed: the moral edification of the people of the Seven Kingdoms was the most deserving target of her own efforts, not insistence on the personages of their kings and queens.
 
-The College, of course, still had to maintain diplomatic ties with Emault and his new subjects: those new subjects who welcomed their new King and those who resisted him alike. And the College needed to maintain the confidence of their parishioners in both Orland and Duranlach. And it was invested with some of the legacy of the old Ivian League—the time when Ae *did* take quite an active role in the governance of the realm—and so they were the intended audience of Emault's legal chicanery. Officially the College had no responsibility—there was no new ruler to crown, at least—but their representations, missives, and decrees would be carefully scrutinized to detect their posture, and the involved parties would be prepared to match or oppose that posture: outstretched arms or turned backs, raised guards or offered salutations.
+The College, of course, still had to maintain diplomatic ties with Emault and his new subjects, those new subjects who welcomed their new King and those who resisted him alike. And the College needed to maintain the confidence of their parishioners in both Orland and Duranlach. And it was invested with some of the legacy of the old Ivian League—the time when Ae *did* take quite an active role in the governance of the realm—and so they were the intended audience of Emault's legal chicanery. Officially the College had no responsibility—there was no new ruler to crown, at least—but their representations, missives, and decrees would be carefully scrutinized to detect their posture, and the involved parties would be prepared to match or oppose that posture: outstretched arms or turned backs, raised guards or offered salutations.
 
-Nasira, from the gloomy corners of the Chancellor's office, watched this play out in miniature.
+Nasira, from the gloomy corners of the chancellor's office, watched this play out in miniature.
 
 Pellwyn, now, stood from her seat and leaned onto her table with her knuckles. Her elderly body loomed, stern but not stiff, over the obdurate Duranlachian.
 
-"Sister, do you mean to tell me you would have brothers Gillam and Erwan call their parish militias to arms to be slaughtered by the King's professional retinues on your behalf?"
+"Sister, do you mean to tell me you would have brothers Gillam and Erwan call their parish militias to arms to be slaughtered by the king's professional retinues on your behalf?"
 
 "Of course not," Sister Genea replied primly. "I mean to take up arms as well."
 
@@ -911,7 +911,7 @@ Moments later, Duke Phinereaux of Chentria arrived. This man, Nasira had heard P
 
 "Some nerve you have, Phinereaux."
 
-The Duke was taken aback. "Pardon me?"
+The duke was taken aback. "Pardon me?"
 
 "You know your purpose here. Emault's claim stinks. This *fine instutition* is full of brilliant scholars, and he insulted every last one of them with an offering of garbage."
 
@@ -923,7 +923,7 @@ The Duke was taken aback. "Pardon me?"
 
 "Give me a good reason I shouldn't call the faithful to arms."
 
-The Duke's eyes widened, then narrowed. "You wouldn't *dare*," he hissed. "It would be a slaughter."
+The duke's eyes widened, then narrowed. "You wouldn't *dare*," he hissed. "It would be a slaughter."
 
 Nasira sensed the clouds of fury gathering. Pellwyn and Phinereaux stared daggers at each other, and Tormen looked aghast.
 
@@ -959,7 +959,7 @@ Phinereaux stood. Nasira's veins ran with ice and her muscles coiled for action.
 
 But his hands rose neatly to his hips, far from the sheathed knife.
 
-"As you will, then," he muttered before he stomped out.
+"So be it, then," he muttered before he stomped out.
 
 Nasira relaxed her body and her mind. Pellwyn sat. Tormen still looked a little queasy. "I didn't expect, when you said 'threaten', that we would *threaten* threaten."
 
@@ -985,15 +985,15 @@ Nasira arrived in Ae's chapel and found it empty. She approached the dais, laid 
 
 A few minutes later, Ae was present, sitting upon the dais. "Have you thought on it, Knight Nasira?" she asked, as if their prior conversation were but minutes ago.
 
-"Yes, holy mother."
+"Yes, Holy Mother."
 
 "Have you any new insight?"
 
-"Some, holy mother."
+"Some, Holy Mother."
 
 "Care to share?"
 
-"Yes, holy mother. The oath may constrain me from the pursuit of justice."
+"Yes, Holy Mother. The oath may constrain me from the pursuit of justice."
 
 "Go on."
 
@@ -1003,7 +1003,7 @@ A few minutes later, Ae was present, sitting upon the dais. "Have you thought on
 
 "For another, I believe you are being circumspect."
 
-"Yes, holy mother."
+"Yes, Holy Mother."
 
 "Speak freely. Never fear to offer the truth to me, no matter how unbecoming."
 
@@ -1011,7 +1011,7 @@ A few minutes later, Ae was present, sitting upon the dais. "Have you thought on
 
 "What makes this matter so dire?"
 
-"The Chancellor's method's, holy mother. She lies and coerces and distorts the voting will of the apostles."
+"The Chancellor's methods, Holy Mother. She lies and coerces and distorts the voting will of the apostles."
 
 "Chancellor Pellwyn is a cunning woman."
 
@@ -1023,7 +1023,7 @@ Nasira looked up to see her standing upon the dais, clad in steel. Her breastpla
 
 "You know the history of your Goddess, Knight Nasira. But your question shows that you have not followed the path to its end.
 
-"I was once Ae, Goddess of Wisdom and Rule. The Ivian League was my work. It was my purpose. I united the warring Kings and Queens and bent their knees at the throne of justice. Their realms were ruled justly—as just and as right as mortal hands could strive to make under the steady tutelage of the divine.
+"I was once Ae, Goddess of Wisdom and Rule. The Ivian League was my work. It was my purpose. I united the warring kings and queens and bent their knees at the throne of justice. Their realms were ruled justly—as just and as right as mortal hands could strive to make under the steady tutelage of the divine.
 
 "But Osi was dull. Parthyia was greedy. Uthien was too trusting and Othard mendacious to match. The Word is imprecise on this bit of history, for it matters little what their particular weaknesses were, and it does little good to damn their names in the annals of history. What matters is that every generation of rulers was mortal, and the end was inevitable. Before its third centennial, the League disintegrated. Even a Goddess could not keep the mortals from their bloody quarrels.
 
@@ -1033,7 +1033,7 @@ Nasira thought about this. "The Word carefully implies that the Goddess of Wisdo
 
 Ae sighed. "The Word is no *lie*. My Rule was righteous. And it was a terrible mistake. It was an act of hubris."
 
-"And you feel it would be hubris to pass judgement on your own Chancellor?"
+"And you feel it would be hubris to pass judgement on your own chancellor?"
 
 "Yes."
 
@@ -1043,29 +1043,29 @@ Nasira bent her head back down as in prayer.
 
 "Yes. The decision is yours."
 
-Nasira thought. "I must suppose that the Chancellor's motives are as she says. She believes her resolution to the crisis is just and must be pursued. She is willing to sacrifice... or impinge somewhat, I suppose she would consider it... the virtues of the College's voting body and its governing rituals.
+Nasira thought. "I must suppose that the chancellor's motives are as she says. She believes her resolution to the crisis is just and must be pursued. She is willing to sacrifice... or impinge somewhat, I suppose she would consider it... the virtues of the College's voting body and its governing rituals.
 
-"Am I to weigh the Word of the Ae and its precepts for the College against the human wisdom of its senior member?"
+"Am I to weigh the Word of the Ae and its precepts for the College against the human wisdom of its ranking member?"
 
 "So it seems."
 
-Nasira thought for several long, silent minutes. Then she looked up again. "Have you knowledge to share, holy mother?"
+Nasira thought for several long, silent minutes. Then she looked up again. "Have you knowledge to share, Holy Mother?"
 
 Ae removed the gallant warhelm, smiling, to behold Nasira. "Of course. Rise, Knight Nasira. Come with me."
 
 Nasira rose left the chapel with Ae.
 
-The Lightbringer's Chapel, from its perch upon the crest of the highest cliff on Mount Caelias, overlooked the main campus of the College. From here, the scholars of the college could be seen traversing the quadrangles and cloisters of their home far below, carrying on in a slow serenity. Only the vague suggestion of the noise and bustle of their activity was audible beneath the wind. The ancient stronghold at the heart of Anteianum crowned the jagged ridge a mile across, and the bright white-and-orange city sprawled across the saddle of fertile land between them.
+The Lightbringer's Chapel, from its perch upon the crest of the highest cliff on Mount Caelias, overlooked the main campus of the College. From here, the scholars of the College could be seen traversing the quadrangles and cloisters of their home far below, carrying on in a slow serenity. Only the vague suggestion of the noise and bustle of their activity was audible beneath the wind. The ancient stronghold at the heart of Anteianum crowned the jagged ridge a mile across, and the bright white-and-orange city sprawled across the saddle of fertile land between them.
 
 Ae stood at the top of the first step, her steel no longer donned, her himation rippling in the highland wind.
 
 "Look, Knight," she said, half-shouting above the wind. "You see much, yes?"
 
-"Much, but also little. Akin to the parable of King Atu."
+"Much, but also little. Like the parable of King Atu."
 
 "Yes," Ae chuckled. "Come closer, Knight Nasira."
 
-Nasira obeyed, standing shoulder-to-shoulder with the Goddess.
+Nasira obeyed, standing shoulder-to-shoulder with the goddess.
 
 "Now," Ae said, "What you see, you know from your studies, is a matter of... convenience, we may call it. Light from the sun, variously reflected and absorbed and sent to your eyes by the logic of optics. You see flesh, clothes, grass, wood, and stone. This is the sight that the human eye is made for.
 
@@ -1075,7 +1075,7 @@ Ae turned to watch Nasira.
 
 "Knight Nasira, are you ready? This will be a difficult kind of teaching."
 
-"Yes, holy mother. How so?"
+"Yes, Holy Mother. How so?"
 
 "It requires a balance: an open heart and a steel focus, each held in perfect measure. It is rather like balancing with one toe on the tip of a spear."
 
@@ -1085,27 +1085,27 @@ Ae laughed. "Yes, Knight Nasira. But when you have gained your footing, you will
 
 ---
 
-The letter from the High King was the only item on the agenda for a series of full sessions of the College's voting body. Every Apostle of the third degree or higher, wearing the blue stole of duty, filed in to the Hall of the League for the first session on a cold afternoon just two days before the beginning of the Feast of the Solstice.
+The letter from the high king was the only item on the agenda for a series of full sessions of the College's voting body. Every apostle of the third degree or higher, wearing the blue stole of duty, filed in to the Hall of the League for the first session on a cold afternoon just two days before the beginning of the Feast of the Solstice.
 
 Chancellor Pellwyn stood at the lectern on the floor between the two galleries of seated apostles. Nasira watched from over her left shoulder, observing the gathered people. They were energetic and nervous. Some sat fidgeting in the pews and others chatted animatedly with their colleagues right up until the bang of Pellwyn's gavel.
 
-Every set of eyes snapped down to the floor, and the Chancellor called the College of Apostles into session. Nasira felt seen, even in her customary state of invisibility. Every soul in that room knew she would be there, after all.
+Every set of eyes snapped down to the floor, and the chancellor called the College of Apostles into session. Nasira felt seen, even in her customary state of invisibility. Every soul in that room knew she would be there, after all.
 
-She began by listening to the progress of the proposals and the debate. An enthusiastic faction began by calling for the College to repudiate the conquest of naked personal ambition as unbefitting a moral ruler. The College at large seemed to accept the barb in the spirit of vigorous debate, at first, but after a few volleys back and forth, the arguing Apostles began to draw battle lines and sharpen tongues. As the sarcasm hardened into insult, Nasira began to lean forward onto the balls of her feet.
+She began by listening to the progress of the proposals and the debate. An enthusiastic faction began by calling for the College to repudiate the conquest of naked personal ambition as unbefitting a moral ruler. The College at large seemed to accept the barb in the spirit of vigorous debate, at first, but after a few volleys back and forth, the arguing apostles began to draw battle lines and sharpen tongues. As the sarcasm hardened into insult, Nasira began to lean forward onto the balls of her feet.
 
 The particulars of the conversation fell away into the background as she searched the crowd. She had never seen tensions so high in the Hall of the League. The College had never considered so inherently contentious a motion, but that was no reason to ignore the instinct and experience that told Nasira to note the animosity. Everywhere she looked, the nervous anxiety had been sanded away to something raw and red.
 
-The Chancellor called for order and reprimanded a junior apostle, who sat down huffing. It wasn't the most serious accusation that had been hurled and everyone knew it, but it fell out of decorum in an obvious way and had provided Pellwyn with the opening. Nasira started scanning faces. Senior members looked glum, pained, and determined. But the junior members, almost every one, were livid.
+The chancellor called for order and reprimanded a junior apostle, who sat down huffing. It wasn't the most serious accusation that had been hurled and everyone knew it, but it fell out of decorum in an obvious way and had provided Pellwyn with the opening. Nasira started scanning faces. Senior members looked glum, pained, and determined. But the junior members, almost every one, were livid.
 
 Almost.
 
 One junior member sitting in the gallery on the upper left-hand side was nearly trembling. He was a small man, almost swallowed in his robes, with a full head of hair not yet lost to baldness. He didn't look angry or combative. He did look nervous. His eyes darted to the door. To the floor... here, there. Around the galleries, especially at the front row on the right-hand side of the Hall.
 
-At the Chancellor.
+At the chancellor.
 
 Nasira threw back her hood and drew her sword. None would know, unless Pellwyn were listening for the whisper of steel coming free, which she would not be. Nasira thrust her soul through her mind and opened it to the reality of the world.
 
-Nasira, now, employed one of the most difficult types of seeing Ae had taught here: to see into hearts. In the Hall of the League, there was erudition and passion, thought and deliberation on display. Each Apostle she saw, shaded with their hopes or their fears, stained by their secrets or imbued with potential, textured and bright like an oil painting in colors vivid beyond imagining.
+Nasira, now, employed one of the most difficult types of seeing Ae had taught here: to see into hearts. In the Hall of the League, there was erudition and passion, thought and deliberation on display. Each apostle she saw, shaded with their hopes or their fears, stained by their secrets or imbued with potential, textured and bright like an oil painting in colors vivid beyond imagining.
 
 The small man in the overlarge robes was a knot of fire and light. Hope and self-doubt swirled within a pall of resolve. It didn't look right. It didn't have the look of a man contemplating violence.
 
@@ -1125,19 +1125,19 @@ Knight Nasira tore the assassin's soul from his body.
 
 It came free with a sound like a great oak being snapped in half, heard not just in the ears but felt in every heart and throat. The man's body fell limp fifty feet to the ground beside the sword it had held.
 
-Nasira stood, visible and with sword bared, by the Chancellor's side.
+Nasira stood, visible and with sword bared, by the chancellor's side.
 
 # Chapter IV
 
-Chancellor Pellwyn and Abbot Way argued for nearly an hour in her office that night over how soon the College would resume its voting session. In the end, Way was able to pry a one-day recess out of the Chancellor's steel grip.
+Chancellor Pellwyn and Abbot Way argued for nearly an hour in her office that night over how soon the College would resume its voting session. In the end, Way was able to pry a one-day recess out of the chancellor's steel grip.
 
-"She wants to ride the wave of sympathy," Way grumbled to the gathered Knights in his cell.
+"She wants to ride the wave of sympathy," Way grumbled to the gathered knights in his cell.
 
 "An unbecoming complaint," said Knight Juno.
 
-"Maybe. But also the truth, and it's never good to ignore the truth. That said," Way rumbled on, "we have twenty hours before the session resumes. The Chancellor might only be alive because the most formidable Knight I have ever sparred with just happened to be on watch. The next time she lives I don't want it to be just because we got a lucky show of the damn dice."
+"Maybe. But also the truth, and it's never good to ignore the truth. That said," Way rumbled on, "we have twenty hours before the session resumes. The chancellor might only be alive because the most formidable knight I have ever sparred with just happened to be on watch. The next time she lives I don't want it to be just because we got a lucky show of the damn dice."
 
-"Agreed, but we _will_ post Knight Nasira as her Shadow again, no?"
+"Agreed, but we _will_ post Knight Nasira as her shadow again, no?"
 
 "Perhaps," said Nasira, her gaze distant. "I have been asked to the Lightbringer's chapel at dawn."
 
@@ -1163,7 +1163,7 @@ Nasira closed the cell door and turned to face Brother Stefan, who sat on the co
 
 "Brothers Stefan and Porta. Sisters Liliana, Mora, and Ilin-to. Have I identified the members of the conspiracy correctly?"
 
-Nasira barely even heard what he said ("no, it wasn't...") the lie was so visibly obvious upon his heart.
+Nasira barely even heard what he said ("no, it wasn't...") the lie was so obvious upon his heart.
 
 "You cannot lie to me."
 
@@ -1175,7 +1175,7 @@ Nasira paused and thought. Her mind swirled with the potency of the truth, of du
 
 Nasira let her expression soften the tiniest amount before continuing.
 
-"I want to know why there was an attempt on the Chancellor's life today. I want to understand."
+"I want to know why there was an attempt on the chancellor's life today. I want to understand."
 
 Stefan gulped. His voice cracked as he forced out, "for justice."
 
@@ -1191,17 +1191,17 @@ Brother Stefan was speechless for a moment, reeling as if the gravity of the roo
 
 Brother Stefan rubbed his temples, then the bridge of his nose. Then he sighed—theatrically, Nasira thought—and seemed to slump... and relax.
 
-"It's simple," he said. "The Chancellor wants us to ratify Emault's conquest. An act of war, slaughter, and for what? For his own glory. We couldn't stand by."
+"It's simple," he said. "The chancellor wants us to ratify Emault's conquest. An act of war, slaughter, and for what? For his own glory. We couldn't stand by."
 
 Nasira saw two angles immedaitely and chose the one that seemed to flatter his convictions. "Ratify? How do you mean?"
 
-"The Chancellor... is going to urge the College to treat Emault as if he were the rightful ruler of Duranlach. The College ought to be _the_ keeper of the moral code in these realms. If we don't condemn the conquest..."
+"The chancellor... is going to urge the College to treat Emault as if he were the rightful ruler of Duranlach. The College ought to be _the_ keeper of the moral code in these realms. If we don't condemn the conquest..."
 
 "... who will?"
 
 "Exactly."
 
-"And you believe that the Chancellor was agitating for this?"
+"And you believe that the chancellor was agitating for this?"
 
 "Yes, it was clear. The hushed meetings. The politicking."
 
@@ -1211,7 +1211,7 @@ Nasira frowned. He didn't even know the half of it: the threats and blackmail, t
 
 "We... we acted in justice for Orland. The moment was about to pass, and if we failed..."
 
-"So the Chancellor's life was forfeit on shaky confidence, then?"
+"So the chancellor's life was forfeit on shaky confidence, then?"
 
 "Firm confidence. I know in my heart."
 
@@ -1229,7 +1229,7 @@ Stefan said nothing to this. Nasira pressed the second angle.
 
 "You thought you could not convince them."
 
-Stefan looked up, appearing surprised. "No. You saw that room, didn't you?"
+Stefan looked up, appearing surprised. "Of course we couldn't. You saw that room, didn't you?"
 
 "With utter clarity. It was full of red-rashed nerves and tumult. You saw something different?"
 
@@ -1263,7 +1263,7 @@ Satisfied, Way dismissed her to get some sleep, but as promised, Nasira found sh
 
 "It is just past midnight, Knight Nasira," Ae's voice rang from behind her at the chapel entrance. "You are very early."
 
-"You are early, too, holy mother," she replied. "I thought to pray and think."
+"You are early, too, Holy Mother," she replied. "I thought to pray and think."
 
 "Did Way not order you to get some sleep?"
 
@@ -1271,15 +1271,15 @@ Satisfied, Way dismissed her to get some sleep, but as promised, Nasira found sh
 
 Ae chuckled. "That old cavalier. He trusts in his knights when sometimes he should just give them orders."
 
-"Yes, holy mother."
+"Yes, Holy Mother."
 
 "Will you pray before me? You are in my chapel, but if you thought to be alone I shall allow you to be so."
 
-"I will pray before you, holy mother."
+"I will pray before you, Holy Mother."
 
 Ae, then, was present upon her dais, sitting.
 
-"Abbot Way and my Knight-brothers and -sisters have offered me a great deal of commendations."
+"Abbot Way and my knight-brothers and -sisters have offered me a great deal of commendations."
 
 "You are toubled by this, I see."
 
@@ -1299,7 +1299,7 @@ Nasira begrudgingly traveled the last few paces to the end of the thought.
 
 Ae spoke. "Was this in violation of your oath?"
 
-"Of course not, holy mother."
+"Of course not, Holy Mother."
 
 Ae smiled that wily, laughing smile. "If it was not in violation of your oath, what troubles your conscience?"
 
@@ -1343,7 +1343,7 @@ Nasira looked up. Had she ever looked her Goddess in the eyes before?
 
 "Everything is a test, my friend. But no, this is not some sort of contrivance. I have met Erefar, hance my remarks. I was saddned to learn that you had killed him."
 
-"Forgive me, holy mother."
+"Forgive me, Holy Mother."
 
 "I have not asked for your apology, and it is not my forgiveness you need."
 
@@ -1371,15 +1371,15 @@ And in that moment of fatigue and doubt, Nasira saw her Goddess as clearly as sh
 
 "I need not your forgiveness. You give neither judgement nor forgiveness. You give *knowledge*."
 
-Ae smiled.
+"Yes."
 
 "And you can only give what knowledge there is to give."
 
-"Yes."
+Ae smiled. "Yes."
 
 And the knowledge She had to give was this: justice was not something that could be simply known.
 
-The Goddess may not have had the knowledge to share with Nasira about whether the Chancellor's plans were the best for the College or whether Erefar could have been subdued safely. But there was much knowledge She did have, and it would not do to leave it unused.
+The Goddess may not have had the knowledge to share with Nasira about whether the chancellor's plans were the best for the College or whether Erefar could have been subdued safely. But there was much knowledge She did have, and it would not do to leave it unused.
 
 Nasira stood. "I should rest, holy mother. I must return to duty in the morning. But I have decided that I should like to ask a favor afterward."
 
