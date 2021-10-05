@@ -37,7 +37,7 @@ The chancellor sighed. "Good questions both. A test, presumably. Create this fic
 
 "If we're right to see through this as a ruse, we have the upper hand, then, right?"
 
-"In a manner. But we have little room to misrepresent ourselves for the purpose. Anything we reply with here will necessarily be something we must commit to publicly." The chancellor continued. "I'll speak with the librarian first. Then, round up the brothers and sisters of the fifth degree or higher who call Duranlach and Orland home. I want to meet with them in two separate meetings tomorrow afternoon. Get me their senior members in the morning if you can. I think that would be Brother Kedsen and..."
+"In a manner. But we have little room to misrepresent ourselves for the purpose. Anything we reply with here will necessarily be something we must commit to publicly." The chancellor paused for the space of a breath and then continued. "I'll speak with the librarian first. Then, round up the brothers and sisters of the fifth degree or higher who call Duranlach and Orland home. I want to meet with them in two separate meetings tomorrow afternoon. Get me their senior members in the morning if you can. I think that would be Brother Kedsen and..."
 
 "Brother Uthora, I believe."
 
