@@ -259,7 +259,7 @@ Pellwyn forced her mind into motion, absorbing the gist of the ongoing debate wh
 
 The debate became rancorous, and Pellwyn was greatly displeased to find that the apostles who stood in opposition to the motion didn't seem to grasp the particular moral zeal that was driving their opponents, and as a result were arguing straight past them. She began to struggle to keep order, her voice rising to a shout to recognize sanctioned debate and her gavel banging ever more desperately to silence the unsanctioned debate.
 
-The was raising her hand to get the attention of the parliamentarian when the assassin fell.
+She was raising her hand to get the attention of the parliamentarian when the assassin fell.
 
 # Chapter II: The Assassin
 
