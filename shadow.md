@@ -651,13 +651,17 @@ He retraced his steps to the lecture hall and, from its closed door, turned left
 
 "Can I help you, Brother...?"
 
-Erefar had turned the corner directly into Chancellor Pellwyn. He had nearly collided with her, in fact. His mind snapped to his persona.
+Erefar had turned the corner directly into Chancellor Pellwyn. He had nearly collided with her, in fact. And, indeed, she was alone. Alone except for Erefar, now. His mind snapped to his persona.
 
 "Yes, sister. Brother Pyth. I was hoping to find Brother Chin-Lo; I had a question."
 
 "Ah. I'm afraid I don't know his schedule. You may try his residence; it's in the north hall."
 
-"Thank you, sister. If I may..." Erefar ventured, suddenly curious as to why she was at this lecture. "What did you think of his thesis?"
+As she spoke, Erefar thought. She couldn't truly be alone, could she? The College of Apostles was one of the most influential bodies in the Seven Kingdoms. It would be incredible for none of them to have realized that this power would frequently place its officers in great danger. Indeed, were Erefar a less scrupulous man...
+
+The more he focused in on the nature of the college, the more he sensed the truth of it. She was *not* alone. There was a presence. With her, about her, alongside her... one presence? Multiple? it was unclear. There was clearly nobody else in this hallway but Erefar and Pellwyn. Was it magical protection of some sort? A blessing from Ae herself? Pellwyn was not alone. And whatever was there in the empty hallway was there to accompany her.
+
+Erefar couldn't mull this over forever. "Thank you, sister. If I may..." He ventured, suddenly curious as to why she was at this lecture. "What did you think of his thesis?"
 
 Pellwyn chuckled. "Chin-Lo is one of the most brilliant scholars to ever conduct a historical analysis."
 
@@ -879,7 +883,17 @@ Their discussion today, taking place in Stefan's own chamber over bread and tea,
 
 Erefar considered this himself. Their plan was as fine a plan as a few young conspirators could be expected to produce, but he doubted it would have great effect. They needed his help. Fortunately, he knew how to provide it.
 
-After that, they meandered down what seemed like much more well-worn grooves of thought. How could they best clean house? None of them had the tenure or résumé to compete for any high offices, but they all agreed that they had to lever all of the meager power and authority they could muster anyway. Sister Liliana suggested that they lean on the treasurer to exceed his normal mandate (which was to aid in the continuity between chancellors) and to do a thorough accounting of the chancellor's office and uncover the stains of corruption within. All of them agreed that the treasurer had thus far been too competent to be a crony himself. Brother Stefan also reminded the group that the librarian's office would be particularly important, and they should be surreptitiously priming any contacts they had there.
+"And what if he fails?" asked Sister Mora.
+
+"He's a holy man. I have great confidence. Faith, even," declared Stefan.
+
+"But the Owl..."
+
+"Yes, yes," Stefan grumbled. "If justice is, somehow, not as we see it... there's not much need for planning. We'll face the consequences."
+
+Erefar frowned. *The Owl?* Was this some sort of scriptural reference Erefar didn't recognize? Or was this the presence Erefar had felt in Pellwyn's company? Was "Galvin" holding something back?
+
+No details were forthcoming. The conspirators began meandering down what seemed like much more well-worn grooves of thought. How could they best clean house? None of them had the tenure or résumé to compete for any high offices, but they all agreed that they had to lever all of the meager power and authority they could muster anyway. Sister Liliana suggested that they lean on the treasurer to exceed his normal mandate (which was to aid in the continuity between chancellors) and to do a thorough accounting of the chancellor's office and uncover the stains of corruption within. All of them agreed that the treasurer had thus far been too competent to be a crony himself. Brother Stefan also reminded the group that the librarian's office would be particularly important, and they should be surreptitiously priming any contacts they had there.
 
 One by one, they filed out, until Brother Stefan was alone. Erefar raised his hood and left the adjacent cell, impressed with the convictions of his solicitor but not yet in possession of the surety he sought.
 
@@ -1088,6 +1102,8 @@ From here he observed the proceedings for a moment, hoping merely to learn the l
 Erefar considered returning to the ground and walking through the front door. No physical protection was present for the target, besides dozens of apostles—mostly scholars by trade and by temperament, distracted by argument and not ready for sudden physical violence. But as the acrimony in the chamber rose in volume, Erefar realized that it would be a simple thing to break this window before him and sneak out onto the beams. So he did. Within moments, he was perched in the darkness within the crown of the high-vaulted Hall of the League.
 
 Now was the time. It was a risk, but Erefar was a holy man. Tormen did not deny it, and neither could the rest of the apostles. He would strike a blow for justice here, and hopefully, with the help of Brother Stefan and his colleagues, the rest of the apostles would see and act on the truth.
+
+Whatever Pellwyn's protection was, it would fail. It was up against Ae's justice.
 
 He padded across the beam above the chancellor, retrieved the steel he had brought for this task, and set his feet for the leap.
 
