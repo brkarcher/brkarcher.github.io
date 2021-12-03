@@ -463,7 +463,7 @@ Ae listened as Nasira thought.
 
 "I will think on it, Holy Mother."
 
-# The Exchange
+# The Tapestry
 
 Pellwyn stood from her stool and examined the new length of tapestry. It was a good beginning. Its shining elements set perfectly off the stately deep blue field, lent a textured vibrancy by interwoven greys and lavenders. So far, her execution had been flawless.
 
@@ -709,7 +709,7 @@ It was painfully obvious to Erefar's trained eye: this man had something to hide
 
 The librarian stammered out a nonsensical lie, which was all Erefar could get out of him.
 
-# The Negotiations
+# Leverage
 
 Nasira, from the gloomy corners of the chancellor's office, watched the crisis of the seven kingdoms play out in miniature.
 
@@ -1153,7 +1153,7 @@ It came free with a sound like a great oak being snapped in half, heard not just
 
 Nasira stood, visible and with sword bared, by the chancellor's side.
 
-# Reflections
+# Justice
 
 Chancellor Pellwyn and Abbot Way argued for nearly an hour in her office that night over how soon the College would resume its voting session. In the end, Way was able to pry a one-day recess out of the chancellor's steel grip.
 
