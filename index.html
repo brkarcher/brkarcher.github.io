@@ -9,49 +9,39 @@ title: The Midnight Oil
 
 <br/>
 
-<hr/>
+<div style="margin-left: 50px; margin-right: 50px">
+	<hr/>
 
-<h2>Fresh Ink</h2>
+	<h2>Fresh Ink</h2>
 
-{% assign pages = site.pages | where:"feed","true" | sort: "date" | reverse %}
-{% for page in pages limit: 3%}
-<p><b>{{ page.title }}</b>: {{ page.excerpt | strip_html }} <a href={{ page.url }} title="Continue reading">&gt;&gt;</a></p>
-{% endfor %}
+	{% assign pages = site.pages | where:"feed","true" | sort: "date" | reverse %}
+	{% for page in pages limit: 3%}
+	<p><b>{{ page.title }}</b>: {{ page.excerpt | strip_html }} <a href={{ page.url }} title="Continue reading">&gt;&gt;</a></p>
+	{% endfor %}
 
-<hr/>
+	<hr/>
+</div>
 
-<h2>Thief</h2>
-<p>A love letter to 2000s fantasy.</p>
-<p>
-	<a href="thief-pro.html" title="Prologue"/>Prologue</a>,
-	<a href="thief-ch-1.html" title="Thief!"/>I</a>,
-	<a href="thief-ch-2.html" title="Friends"/>II</a>
-	<a href="thief-ch-3.html" title="Living"/>III</a>
-</p>
-
-<h2>Death of a Wizard</h2>
-<p>A witch, a wizard, and a survivor on a long journey.</p>
-<p>
-	<a href="requiem-1.html" title="The Letter">I</a>, 
-	<a href="requiem-2.html" title="The Book">II</a>, 
-	<a href="requiem-3.html" title="Fertheaux">III</a>, 
-	<a href="requiem-4.html" title="The Not-Demon">IV</a>, 
-	<a href="requiem-5.html" title="Psychomancy">V</a>, 
-	<a href="requiem-6.html" title="Expeditious Retreat">VI</a>,
-	<a href="requiem-7.html" title="Promises">VII</a>,
-	<a href="requiem-8.html" title="Northbound">VIII</a>,
-	<a href="requiem-9.html" title="Nexus">IX</a>,
-	<a href="requiem-10.html" title="Relation">X</a>,
-	<a href="requiem-11.html" title="Safe Travels">XI</a>,
-	<a href="requiem-12.html" title="Duties">XII</a>,
-	<a href="requiem-13.html" title="Adversaries">XIII</a>,
-	<a href="requiem-14.html" title="Orha's Eye">XIV</a>
-</p>
-
-<h2>Tabletop Paraphernalia</h2>
+<h2>Fantasy</h2>
 <ul>
-	<li><a href="match-alternate.html">Match (alternate)</a></li>
-	<li><a href="leaf.html">Leaf</a></li>
+	<li><a href="shadow.html"><b>The Chancellor's Shadow</b></a></li>
+	<li><b>Thief</b>: <a href="thief-pro.html" title="Prologue">Prologue</a>, <a href="thief-ch-1.html" title="Thief!">I</a>, <a href="thief-ch-2.html" title="Friends">II</a>, <a href="thief-ch-3.html" title="Living">III</a></li>
+	<li><b>Death of a Wizard</b>:
+		<a href="requiem-1.html" title="The Letter">I</a>, 
+		<a href="requiem-2.html" title="The Book">II</a>, 
+		<a href="requiem-3.html" title="Fertheaux">III</a>, 
+		<a href="requiem-4.html" title="The Not-Demon">IV</a>, 
+		<a href="requiem-5.html" title="Psychomancy">V</a>, 
+		<a href="requiem-6.html" title="Expeditious Retreat">VI</a>,
+		<a href="requiem-7.html" title="Promises">VII</a>,
+		<a href="requiem-8.html" title="Northbound">VIII</a>,
+		<a href="requiem-9.html" title="Nexus">IX</a>,
+		<a href="requiem-10.html" title="Relation">X</a>,
+		<a href="requiem-11.html" title="Safe Travels">XI</a>,
+		<a href="requiem-12.html" title="Duties">XII</a>,
+		<a href="requiem-13.html" title="Adversaries">XIII</a>,
+		<a href="requiem-14.html" title="Orha's Eye">XIV</a>
+	</li>
 </ul>
 
 <h3>Campaign Journals</h3>
@@ -97,6 +87,9 @@ title: The Midnight Oil
 	<li><a href="kaze.html">Kaze</a></li>
 	<li><a href="fen.html">Fen</a></li>
 	<li>From the Hand of Fen: <a href="hand-fen-1.html">I</a>, <a href="hand-fen-2.html">II</a></li>
+	<li><a href="match-alternate.html">Match (alternate)</a></li>
+	<li><a href="leaf.html">Leaf</a></li>
+	<li><a href="yla.html">Yla</a></li>
 </ul>
 
 <h2>Story Meditations</h2>
