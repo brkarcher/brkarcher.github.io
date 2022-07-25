@@ -8,6 +8,7 @@ feed: true
 date: 2022-01-15
 excerpt: >
     "You're not very good at this, are you?"
+next: yla-2.html
 ---
 
 "You're not very good at this, are you?"
