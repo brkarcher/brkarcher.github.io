@@ -11,7 +11,7 @@ excerpt: Three stars and a few complaints.
 
 # Notes on *Oliver Twist*
 
-1. Dickens' prose, his narrative style, is the star of the show. It's famously circumlocutious—wordy, discursive, full of asides and flourishes. Something that helped my understanding of it was knowing that Dickens himself was a big hammy showman [something I read in this wonderful essay by Ethan Warren](https://www.brightwalldarkroom.com/2019/12/20/a-grand-yuletide-theory-the-muppet-christmas-carol-is-the-best-adaptation-of-a-christmas-carol). A lot of lurching prose is transformed into sweeping, entertaining oratory by simply being imagined like that—oratory, told with the same sort of gusto as an uncle telling ghost stories at a campfire.
+1. Dickens' prose, his narrative style, is the star of the show. It's famously circumlocutious—wordy, discursive, full of asides and flourishes. Something that helped my understanding of it was knowing that Dickens himself was a big hammy showman, something I read in [this wonderful essay by Ethan Warren](https://www.brightwalldarkroom.com/2019/12/20/a-grand-yuletide-theory-the-muppet-christmas-carol-is-the-best-adaptation-of-a-christmas-carol). A lot of lurching prose is transformed into sweeping, entertaining oratory by simply being imagined like that—oratory, told with the same sort of gusto as an uncle telling ghost stories at a campfire.
 
 2. The best reading for the story is as a morality play about vice, sin, and temptation. Fagin is the Devil, who tempts and lures his minions to their own destruction with vices (drinking, gambling), threats, and the false brotherhood of sinners (who all turn on each other at the end).
 
