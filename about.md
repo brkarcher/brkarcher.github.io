@@ -11,4 +11,4 @@ Hi! I'm Ben. If you're reading this, you probably know me, but even if you don't
 
 This is where I keep my stuff. It's mostly fiction inspired by tabletop games with friends. I [aspire](/ink.html) to keep it up and push it further.
 
-I'm [@thesignbit](https://twitter.com/thesignbit) on Twitter if you'd like to contact me.
+I'm [@bat_1k](https://twitter.com/bat_1k) on Twitter if you'd like to contact me.
