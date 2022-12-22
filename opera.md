@@ -105,7 +105,7 @@ Rafael leaned back and smiled his best enigmatic smile.
 
 Rafael wanted to apologize to the darling girl, but the little rhetorical game they were playing just wouldn't allow for it. Ah, well.
 
-"I am quite sure I will find what I am seeking there. Perhaps you...?
+"I am quite sure I will find what I am seeking there. Perhaps you...?"
 
 Anna sighed. "No. I shan't be interested."
 
