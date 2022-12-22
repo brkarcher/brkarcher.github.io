@@ -430,7 +430,7 @@ As they did so, all of them in the room became aware that the dull din from down
 
 The show was beginning.
 
-The civilians sat nervously down at their desks, eyes searching the room for any sort of relief or comfort, unsure if they should, indeed, continue to work their phones and coordinate their colleagues. The Pole stared daggers at the sentries.
+The civilians sat nervously down at their desks, eyes searching the room for any sort of relief or comfort, unsure if they should, indeed, continue to work their phones and coordinate their colleagues. Most of them seemed to look to the woman in the red blouse, who herself seemed to watch the Pole carefully. The Pole stared daggers at the sentries.
 
 Sweche knew what was coming next.
 
@@ -454,15 +454,17 @@ Amateurs, Sweche thought. Shouldn't double-dealers like them know to search for 
 
 The Pole did not waste any time on the reply; he was already at the phone, and in two heartbeats he was shouting orders into the receiver.
 
+"And you, miss," Sweche continued. But the woman in the red blouse was already on her phone herself, waiting for her counterpart to pick up as she swiped madly at the tablet on the stand in front of her. "You have security?" She met his eyes and nodded. Already working, then.
+
 The slow, hymn-like National Anthem of Austria was echoing down the halls. That meant, of course, that the President of Austria was entering his balcony to view the ball. Had the President of European Parliament joined him? Would she be waiting for the European Anthem to be played? Surely not; surely decorum would not have her enter _after_ him. Damnit, Sweche, he thought at himself. No sense trying to guess at when Leon would strike. What was important was getting there as soon as possible.
 
 He ignored the standard-issue handgun he had just surrendered—he disliked that blocky, ugly thing anyway. His snappy little concealed handgun would be just as useful. Which was to say: not nearly as useful as a rifle. But Sweche groaned inwardly as he seized one of the dead men's rifles. The _Gardebataillon_ still paraded around with these huge cold war-era battle rifles, long and ungainly, complete with extra heavy wooden stocks lacquered to a shine. It was not the ideal weapon for a dead sprint into a close-quarters fight.
 
 Sweche released the magazine and checked its top. Brassy rounds glinted up at him. Large ones. He reseated the magazine and charged the rifle. For all its flaws, it would certainly suffice to shoot a big man dead.
 
-"You have two minutes," he shouted at the Pole, who nodded, still bent over the phone. He hoped dearly that two would be enough.
+"You have two minutes," he shouted at the room. The Polish soldier and the event coordinator nodded, still bent over their work. Sweche hoped dearly that two would be enough.
 
-Sweche had one last order of business, just in case. He fumbled around the neck of the dead man he'd just looted the rifle from, and he pulled up a dog tag. Corporal Karl Byllack.
+He had one last order of business, just in case. He fumbled around the neck of the dead man he'd just looted the rifle from, and he pulled up a dog tag. Corporal Karl Byllack.
 
 Sweche snatched the tag off the chain, jumped to his feet, and burst out into the hallway.
 
@@ -508,7 +510,7 @@ Leon was ready for trouble, and he was _fast_. As Byllack brought the rifle to l
 
 Just then, Leon's compatriots began shouting. Byllack became distantly aware that a commotion had followed him up the stairs.
 
-A rainbow of dress uniforms, medals, and cords, bearing an armory of international rifles—four men? Ten men? Byllack wasn't sure—was storming up. Just then, rollup metal gates clattered down across all of the balcony doorways, barring access to the auditorium. The Pole had come through.
+A rainbow of dress uniforms, medals, and cords, bearing an armory of international rifles—four men? Ten men? Byllack wasn't sure—was storming up. Just then, rollup metal gates clattered down across all of the balcony doorways, barring access to the auditorium. His friends—or Sweche's friends, he supposed—back in the office upstairs had come through.
 
 As the situation devolved into a scrum between EU guardsmen and Leon's thugs (_Wem der große Wurf gelungen..._), Byllack hauled himself to his feet and charged out of it, further down the hall. His vision still swam and head still throbbed with pain... he didn't see Leon... had he...?
 
