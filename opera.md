@@ -482,7 +482,7 @@ There was a brief applause from the auditorium as the Anthem ended and Byllack c
 
 The timpani and strings began thundering the opening to the European Anthem: Beethoven's Ode to Joy, the mighty paean to worldly unity.
 
-"Major!" Byllack shouted. "Major! Stop!"
+"Major!" Byllack shouted. He just needed to stall. One more minute and maybe he'd have enough help to bring Leon in alive. "Major! Stop!"
 
 Major Leon turned. The choir within the auditorium erupted into the first verse.
 
@@ -644,7 +644,7 @@ Finally, he said, "Wise. Think hard, even if it is DEFCON 1."
 
 Patrick and Nicole shared a look.
 
-"I take your meaning, anyway, Mr. Levi. Nicole didn't roll the dice on your orders—she took initiative in a controlled manner. Sweche turned out to be a dud, but still. The rest is history," John said, closing the manilla folder. As he opened his mouth to continue, Nicole interrupted.
+"I take your meaning, anyway, Mr. Levi. Nicole didn't roll the dice on your orders—she took initiative in a controlled manner. Sweche turned out to be a dud, but still. The rest is history," John said, closing the manilla folder. "Leon is in custody and we'll make sure the Austrians pass along what they get out of him." As he went to continue, Nicole interrupted.
 
 "Just like that? Bouterk..."
 
