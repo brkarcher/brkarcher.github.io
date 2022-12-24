@@ -200,9 +200,9 @@ The gunshots were percussive and oppressive in this indoor range, even through t
 
 Sergeant Susanne Kauter of the _Gardebataillon_ watched with her hands clasped behind her back as Lieutenant Bouterk shot his last target at the range. Bouterk always liked to finish his shooting sessions by emptying his last magazine into a fresh target in a near-frenzy. "Real combat conditions," Bouterk would explain to his subordinates with a flat smile. Meaning, of course, that if he had the misfortune of being caught in a fight with only his sidearm, he did not plan on—or anticipate that he would be capable of—following doctrine about confirming the target, sighting to the center of mass, firing, and reacquiring a sight picture before firing again. Instead, he would be yanking the trigger as fast as he could in the hopes that he could overcome the circumstances with sheer numbers.
 
-He released the empty magazine, locked the slide open, and rolled the target back in. There were four holes in the center of mass and twelve elsewhere on the sheet, leaving one unaccounted for. A proud marksman would find plenty to tut-tut about, but the man's attitude might just get him out of a jam someday, Susanne thought.
+He released the empty magazine, locked the slide open, and rolled the target back in. There were four holes in the center of mass and twelve elsewhere on the sheet, leaving one unaccounted for. A proud marksman would find plenty to tut-tut about, but the man's attitude might just get him out of a jam someday, Kauter thought.
 
-Susanne removed her cap and saluted after Bouterk finished packing up his gear and turned to notice her. Bouterk returned the salute, but his eyes narrowed immediately. "At ease," he said. The range was empty, but he motioned her out through soundproofing airlock doors and into the antechamber, a little room with four bare compact fluorescent lights overhead, a desk, a water cooler, and two chairs. They both removed their ear protection.
+Kauter removed her cap and saluted after Bouterk finished packing up his gear and turned to notice her. Bouterk returned the salute, but his eyes narrowed immediately. "At ease," he said. The range was empty, but he motioned her out through soundproofing airlock doors and into the antechamber, a little room with four bare compact fluorescent lights overhead, a desk, a water cooler, and two chairs. They both removed their ear protection.
 
 "You came to report, Sergeant?"
 
@@ -232,7 +232,7 @@ Bouterk said nothing.
 
 "He hasn't. And... you should see his body for yourself."
 
-Susanne pulled her phone out of her pocket, unlocked it, and swiped a few times before turning it around to show the Lieutenant.
+Kauter pulled her phone out of her pocket, unlocked it, and swiped a few times before turning it around to show the Lieutenant.
 
 Lieutenant Bouterk's eyes bored into the screen for a few seconds, then they flicked back up to Sergeant Kauter's. "You are sure?"
 
@@ -248,7 +248,7 @@ Lieutenant Bouterk's eyes bored into the screen for a few seconds, then they fli
 
 Bouterk shook his head. "Of course. You are right. How did you come by...?"
 
-"I heard from a private under his command. I don't think they're all die-hard loyal to him," Susanne said. "We need to act quickly," she added, trying to barrel forward past the awkward topic of her possession of pictures of a corpse on her personal phone.
+"I heard from a private under his command. I don't think they're all die-hard loyal to him," Kauter said. "We need to act quickly," she added, trying to barrel forward past the awkward topic of her possession of pictures of a corpse on her personal phone.
 
 Bouterk took another breath and stood rooted to the concrete. "Yes. We need to get word to Command Vienna that he cannot lead the investigation. Speak nothing to your platoon—you have not yet, yes?"
 
