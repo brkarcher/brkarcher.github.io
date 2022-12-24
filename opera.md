@@ -145,7 +145,7 @@ The brunette emitted a silky giggle. "Oh, there is no need for that." She reache
 
 James stared.
 
-"You are _roux_, _non_? What do you English say?" she said, furring her brows in a drunken squint. "Kick for the other team?"
+"You are _roux_, _non_? What do you English say?" she said, furrowing her brows in a drunken squint. "Kick for the other team?"
 
 "Ah, um, well... you could say that."
 
