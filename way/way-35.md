@@ -16,6 +16,8 @@ next: way-36.html
 
 _Author's note: with Gena's permission, I have transcribed this message selected from our recent correspondence and included it here, unedited._
 
+---
+
 > My dear Horwendell of Ilianath,
 > 
 > I would be pleased and honored to provide an account of my endeavors leading up to the storm in Bliss. I shall enclose it separately for your convenience. The college is watching my correspondence closely—this is just the sort of thing that the censors would be looking for and which would be relayed to the inquisition and be viewed disfavorably by my peers at trial—but, as you may have noticed, I have made my reply in such a way that they will never see it.
