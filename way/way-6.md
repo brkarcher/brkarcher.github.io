@@ -104,7 +104,7 @@ I sent Hester back to the central library to receive Justina's apologies that he
 
 "Fraction-fairies..." Hester chewed on that, then apparently decided he had enough context clues to have a guess at it. "Not strange, but unkind. Anyhow, did you learn anything?"
 
-By questioning a few apostles with duties near to the library (a stable keeper, a gardener, a winemaker's assistant), I had narrowed down the trajectory of Theodric's great escape to, roughly, the southeast quadrant of the College. Several important elements of the greater whole of the College could be found there, including the Hall of the League, the gardens, a few yards outfitted for calisthenics, and the East Hall: a huge building hosting libraries, lecture halls, and offices. I told as much to Hester.
+By questioning a few apostles with duties near to the library (a stable keeper, a gardener, a winemaker's assistant), I had narrowed down the trajectory of Theodric's great escape to, roughly, the southeast quadrant of the college. Several important elements of the greater whole of the college could be found there, including the Hall of the League, the gardens, a few yards outfitted for calisthenics, and the East Hall: a huge building hosting libraries, lecture halls, and offices. I told as much to Hester.
 
 "Hmm," he said. "In most fortifications, sally ports and secret exits have their interior entrance not too far from the wall. It's laborious and wasteful to dig long tunnels."
 

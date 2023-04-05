@@ -73,7 +73,7 @@ _Author's note: with Gena's permission, I have transcribed this message selected
 > 
 > We walked for a few paces.
 > 
-> "Well argued," She said. "Although most students give me more opportunities to ask questions."
+> "Well argued," she said. "Although most students give me more opportunities to ask questions."
 > 
 > "You never did answer my question, though," I observed.
 > 

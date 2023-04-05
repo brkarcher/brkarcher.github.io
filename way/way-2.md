@@ -118,7 +118,7 @@ Libraries have a sort of gravitational pull on me. Especially the ancient, stori
 
 I felt shabby having no proper offering to make at the narthex, but it was still invigorating to attend mid-morning prayer and be welcomed as a guest to the monastery.
 
-Apostles and their guests bustled about at the College, all of their robes and cloaks set to flapping in the zealous breeze. Just a quarter mile farther up, the Chapel of Ae[^lightbringer] crowned the summit; seen from below at the College it cut a knife-sharp silhouette against the infinite blue afternoon sky.
+Apostles and their guests bustled about at the college, all of their robes and cloaks set to flapping in the zealous breeze. Just a quarter mile farther up, the Chapel of Ae[^lightbringer] crowned the summit; seen from below at the college it cut a knife-sharp silhouette against the infinite blue afternoon sky.
 
 [^lightbringer]: Central Ivian tradition prescribes that writers should refer to Ae as the Lightbringer if they write by night and as Ae if they write by day; many also insist on mutating quotations and the like to match the correct name for the time of writing. This is, frankly, lunacy. I have adopted the northern tradition where we honor Ae by her name or her title according to the internal timeline of the narration.
 

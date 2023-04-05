@@ -190,7 +190,7 @@ Gena's eyes narrowed. "Only Theodric would have known that; his friends would on
 
 "A tree told us," Hester said.
 
-"The firmament! The coterminous firmament!" I shouted in a mad scramble to save the situation. "Theodric fled through it to get here. We had to find it to tail him. There was a man guarding it, who Hester had to, ah, wrestle out of the way. Finely done, that. Quite safe and sporting and he'll have naught to complain about but a headache. Anyway, the... spirits of the... firmament, _the Halls_, they called it, seemed close to the Lightbringer and her College. They warned us that we would be followed, given what happened."
+"The firmament! The coterminous firmament!" I shouted in a mad scramble to save the situation. "Theodric fled through it to get here. We had to find it to tail him. There was a man guarding it, who Hester had to, ah, wrestle out of the way. Finely done, that. Quite safe and sporting and he'll have naught to complain about but a headache. Anyway, the... spirits of the... firmament, _the Halls_, they called it, seemed close to the Lightbringer and her college. They warned us that we would be followed, given what happened."
 
 "That's both ludicrous and impossible for me to believe you're clever enough to fabricate."
 

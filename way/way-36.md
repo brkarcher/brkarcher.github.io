@@ -13,9 +13,9 @@ prev: way-35.html
 
 # Appendix II: The Crusade
 
----
-
 _Author's note: with Hester's permission, I have transcribed this message selected from our recent correspondence and included it here. I have courageously refrained from editing it._
+
+---
 
 > To the Esteemed Storm-Caller Horwendell of Ilianath, Court Wizard to the Lady Iltara of Bliss,
 > 
