@@ -40,7 +40,7 @@ I looked up. A sturdy-looking woman in a thick, long travel coat (gathered at th
 
 "Oh. Then, no, they don't need me right now. I'm reading."
 
-"I can see that." The woman seemed amused. "And it's clearly not he Word of Ae. How old are you?"
+"I can see that." The woman seemed amused. "And it's clearly not the Word of Ae. How old are you?"
 
 "Twelve, and I've studied the Word, I swear!" I answered, taking a quick look around. My mother was inside, minding the mill, but my brother and sister were on the road back from the Kingsworth market with my father. The cheery little heart of High Vale, a little cluster of thatched-roof homes along a single packed road, was in shouting distance, but our view of it was well-shielded by the mill house at my back. It was just the two of us out there by the road.
 
