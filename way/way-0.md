@@ -6,9 +6,10 @@ breadcrumb:
     url: /way/
   - name: Home
     url: /
-feed: false
+feed: true
 date: 2023-04-04
 next: way-1.html
+excerpt: A dissertation and chronology by Horwendell of Ilianath.
 ---
 
 # Prologue
