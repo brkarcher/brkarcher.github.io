@@ -3,13 +3,12 @@ layout: default
 title: A Wizard's Way
 breadcrumb:
   - name: Table of Contents
-    url: /way/
+    url: /way/toc.html
   - name: Home
     url: /
-feed: true
+feed: false
 date: 2023-04-04
 next: way-1.html
-excerpt: A dissertation and chronology by Horwendell of Ilianath.
 ---
 
 # Prologue

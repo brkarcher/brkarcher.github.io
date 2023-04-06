@@ -3,7 +3,7 @@ layout: default
 title: A Wizard's Way
 breadcrumb:
   - name: Table of Contents
-    url: /way/
+    url: /way/toc.html
   - name: Home
     url: /
 feed: false
