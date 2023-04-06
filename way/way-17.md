@@ -130,7 +130,7 @@ He nodded. "She bucked him."
 
 ---
 
-Tof—the _duuchin_—and I spoke more that afternoon. As a wise man and a magic practitioner—a very similar role to the one I was being trained for, as it happens—he had amassed an enormous variety of skills and breadth of knowledge. As a lifelong member of a traveling Yariagar band, he had walked and ridden across much of Anteianum, Orland, and East Arc. He had spoken to thousands of people in all walks of life, and he had the ability to borrow and read written works (and, indeed, was often entrusted to bear them from one place to another) from all over the kingdoms. His ear for Ivian was rough, but he had a knack for reading it (mostly by way of long hours and dogged patience).
+Tof—the _duuchin_—and I spoke more that afternoon. As a wise man and a magic practitioner—a very similar role to the one I was being trained for, as it happens—he had amassed an enormous variety of skills and breadth of knowledge. As a lifelong member of a traveling Yaria band, he had walked and ridden across much of Anteianum, Orland, and East Arc. He had spoken to thousands of people in all walks of life, and he had the ability to borrow and read written works (and, indeed, was often entrusted to bear them from one place to another) from all over the kingdoms. His ear for Ivian was rough, but he had a knack for reading it (mostly by way of long hours and dogged patience).
 
 His learning defied the academic structures I was used to. Instead, he seemed to give all of his knowledge, collectively and individually, two aspects: the _nuut_, or the mystery of the knowledge itself, and the _üildel_, the acts supported by that knowledge, like leaves on a tree.
 

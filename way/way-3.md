@@ -148,7 +148,7 @@ There was a brief silence, and then Gena and I both spoke at once.
 
 "Ae?" I asked.
 
-"*You?* Gena asked.
+"*You?*" Gena asked.
 
 "Yes, of course. And yes," replied Hester, matter-of-factly. He noted that we were gathering a few odd stares from passerby, although it was hard to tell whether that was because anyone heard or because we simply looked odd in company. "Maybe we can talk somewhere else."
 

@@ -262,7 +262,7 @@ Gena closed her eyes and took a deep breath. "The _Doctrina Tempestas_, as you k
 
 ---
 
-We resolved quickly on our next course of action: we would leave Theodric and his murderers for the order (or the king's men, if it so happened) and we would not be there when they were discovered. Distressing as this was for the all of us, Hester was firm in his belief that he was chosen for this quest and would not allow the order to force him to surrender the mission to them, and Gena seemed to still somehow believe that we might accomplish it where the college's agents and hierarchy might not. For my part, joining them just seemed natural. It would be a few days before the lunacy of undertaking such a quest without a particularly good reason—or my spellbook—would sink in.
+We resolved quickly on our next course of action: we would leave Theodric and his murderers for the order (or the king's men, if it so happened) and we would not be there when they were discovered. Distressing as this was for all of us, Hester was firm in his belief that he was chosen for this quest and would not allow the order to force him to surrender the mission to them, and Gena seemed to still somehow believe that we might accomplish it where the college's agents and hierarchy might not. For my part, joining them just seemed natural. It would be a few days before the lunacy of undertaking such a quest without a particularly good reason—or my spellbook—would sink in.
 
 This meant that we would not be following through with Gena's planned stay at the Crown and Clasp. "Besides the proximity to the scene," she said, "many apostles frequent here. It's why I chose it, and probably why Theodric chose it. They'd be thorough about this place for possible witnesses and connections."
 
