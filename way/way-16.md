@@ -78,7 +78,7 @@ I threw[^physical] Lady Iltara off of me in a panic.
 
 She bore a smug smile now, standing in the center of the dream-tent. She wore an elaborately pleated and wrapped gown, dyed turquoise, that wove up around her hips and over her shoulders, producing elegant shawl-like drapes over her upper arms and a low, flowing skirt.
 
-My gaze was drawn directly to a trace of perfect nut brown skin that the gown revealed from just below her belly button straight up to her neckline. As soon as I noticed, I hastily averted it. I noticed instead how complete the tent was. The tray of tea, the sat-upon beds, the stray bits of equipment—the training sword—were all just as they had been the night before.
+My gaze was drawn directly to a trace of perfect bronze skin that the gown revealed from just below her belly button straight up to her neckline. As soon as I noticed, I hastily averted it. I noticed instead how complete the tent was. The tray of tea, the sat-upon beds, the stray bits of equipment—the training sword—were all just as they had been the night before.
 
 "You are unwell," she said. "Sleeping at odd times. We have the most vivid dreams when we are like that."
 

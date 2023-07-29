@@ -168,7 +168,7 @@ Gena was holding her head in her hands, trying not to be noticed. I, taking a di
 
 Lorea laughed. "I should clarify. You are a scholar, no? His study habits have always left something to be desired. But he is an excellent judge of character."
 
-"You learn many things about men and women on the battlefield," Hester said, applying a Hesterly cast to the complement.
+"You learn many things about men and women on the battlefield," Hester said, applying a Hesterly cast to the compliment.
 
 "He tells me that. I have little choice but to believe him. Anteianum is blessed with affairs of state such that my education involves far less mortal danger."
 

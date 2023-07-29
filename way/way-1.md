@@ -114,7 +114,7 @@ I stared.
 
 "You can't just believe everything you read," she said.
 
-She me gave a tilt of her brim and made to carry on her way, but just then, two men came plodding up the road from behind the mill. Both wore swords and mail under brown-and-white quartered tabards: the baron's men, from Kingsworth.
+She gave me a tilt of her brim and made to carry on her way, but just then, two men came plodding up the road from behind the mill. Both wore swords and mail under brown-and-white quartered tabards: the baron's men, from Kingsworth.
 
 "Magister," one of them wheezed. "Your presence is requested..."
 

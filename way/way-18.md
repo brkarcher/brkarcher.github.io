@@ -26,7 +26,7 @@ Caught up in the urgency myself, I tried to roll over and stand. Instead, I face
 
 Chethe burst into the tent and belted out some orders in Yaria. Ariké and Hester were assembling their gear in haste. Gena and the _duuchin_ were elsewhere.
 
-Ariké was gone through the tent flap by the time Hester notice med. He knelt down by me. "Howe, you... you're awake. You alright?"
+Ariké was gone through the tent flap by the time Hester noticed me. He knelt down by me. "Howe, you... you're awake. You alright?"
 
 "Yeah," I said, rolling back into a seated position. "What's going on?"
 
